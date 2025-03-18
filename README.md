@@ -197,7 +197,6 @@ This document contains the schedule of games for the 2025 NCAA Men's Basketball 
       <td>-</td>
       <td>-</td>
     </tr>
-    
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
