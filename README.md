@@ -176,7 +176,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>Tennessee (2)</td>
       <td>Wofford (15)</td>
       <td>91.79%</td>
@@ -194,7 +194,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Texas A&M (4)</td>
       <td>Yale (13)</td>
       <td>52.81%</td>
@@ -266,11 +266,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Iowa State (3)</td>
       <td>Lipscomb (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>81.42%</td>
+      <td>18.58%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -304,7 +304,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>First Round</td>
       <td>South</td>
       <td>Ole Miss (6)</td>
-      <td>TBD (11)</td>
+      <td>North Carolina (11)</td>
       <td>47.13%</td>
       <td>52.87%</td>
     </tr>
@@ -338,11 +338,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Marquette (7)</td>
       <td>New Mexico (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>56.45%</td>
+      <td>43.55</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -374,11 +374,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Michigan State (2)</td>
       <td>Bryant (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>88.68%</td>
+      <td>11.32%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
