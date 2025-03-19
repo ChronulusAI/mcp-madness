@@ -52,7 +52,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 ## Tournament Schedule with Win Probability Predictions
 
-<table style="font-size:0.7rem">
+<table style="font-size:0.8rem">
   <thead>
     <tr>
       <th>Date</th>
@@ -142,9 +142,9 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>First Round</td>
       <td>South</td>
       <td>Auburn (1)</td>
-      <td>TBD (16)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Alabama State (16)</td>
+      <td>97.80%</td>
+      <td>2.20%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -233,8 +233,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td></td>
       <td>Michigan (5)</td>
       <td>UC San Diego (12)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>57.86%</td>
+      <td>42.14%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
