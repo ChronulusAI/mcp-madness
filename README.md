@@ -176,7 +176,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>Tennessee (2)</td>
       <td>Wofford (15)</td>
       <td>91.79%</td>
@@ -194,7 +194,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Texas A&M (4)</td>
       <td>Yale (13)</td>
       <td>52.81%</td>
