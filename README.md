@@ -198,7 +198,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>Texas A&M (4)</td>
       <td>Yale (13)</td>
       <td>52.81%</td>
-      <td>47.19%</td>
+      <td>47.19% [upset watch - refresh with any injury news/tips]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -278,8 +278,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td></td>
       <td>Memphis (5)</td>
       <td>Colorado State (12)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>55.11%</td>
+      <td>44.89% [upset watch - refresh with news on injuries]</td>
     </tr>
     <tr>
       <td>Mar 21</td>
