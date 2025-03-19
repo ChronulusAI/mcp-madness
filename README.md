@@ -374,11 +374,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Michigan State (2)</td>
       <td>Bryant (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>88.68%</td>
+      <td>11.32%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
