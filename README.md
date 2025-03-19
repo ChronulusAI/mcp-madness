@@ -162,7 +162,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>BYU (6)</td>
       <td>VCU (11)</td>
       <td>49.95%</td>
-      <td>50.05% [upset watch]</td>
+      <td>50.05% [upset watch - refresh is more experts and fresh news]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
