@@ -302,11 +302,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Ole Miss (6)</td>
       <td>TBD (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>47.13%</td>
+      <td>52.87%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
