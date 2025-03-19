@@ -68,7 +68,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 18</td>
       <td>First Four</td>
-      <td>East</td>
+      <td>South</td>
       <td>Alabama State (16)</td>
       <td>Saint Francis (16)</td>
       <td>50.65%</td>
