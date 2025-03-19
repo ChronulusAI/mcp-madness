@@ -179,8 +179,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td></td>
       <td>Tennessee (2)</td>
       <td>Wofford (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>91.79%</td>
+      <td>8.21%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -329,11 +329,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>Kentucky (3)</td>
       <td>Troy (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>83.20%</td>
+      <td>16.80%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
