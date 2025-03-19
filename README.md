@@ -347,11 +347,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Arizona (4)</td>
       <td>Akron (13)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>76.60%</td>
+      <td>23.40%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
