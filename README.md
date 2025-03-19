@@ -203,11 +203,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Missouri (6)</td>
       <td>Drake (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>46.53%</td>
+      <td>53.47% [upset alert]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -275,7 +275,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Memphis (5)</td>
       <td>Colorado State (12)</td>
       <td>55.11%</td>
@@ -311,11 +311,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Maryland (4)</td>
       <td>Grand Canyon (13)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>71.93%</td>
+      <td>28.07%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
