@@ -2,7 +2,7 @@
 
 This is the schedule of games for the 2025 NCAA Men's Basketball Tournament along with win probability predictions for each team provide by Chronulus AI.
 
-For the first match up, the following prompt was used in Claude to setup the Chronulus Session and get the first prediction. Replace the items in {{brackets}} with your own values. 
+For the first match up, the following prompt was used in Claude to setup the Chronulus Session and get the first prediction. Replace the items in `{{brackets}}` with your own values. 
 
 
 ``` 
@@ -26,7 +26,7 @@ Get the Chronulus predictions for this match up in {{'round1-south'}}:
 ```
 
 
-In subsequent conversations, the follow prompt was used in Claude to reuse the session from the first match up.
+In subsequent conversations, the following prompt was used in Claude to reuse the session from the first match up. Again, replace the values in `{{brackets}}` with your own.
 
 ```
 The 2025 NCAA Men's basketball tournament starts tomorrow. I would like to make predictions for the first round of the tournament. 
