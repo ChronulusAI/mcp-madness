@@ -152,8 +152,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>Midwest</td>
       <td>Clemson (5)</td>
       <td>McNeese (12)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>69.89%</td>
+      <td>30.11%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -386,7 +386,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td></td>
       <td>Oregon (5)</td>
       <td>Liberty (12)</td>
-      <td>-</td>
+      <td></td>
       <td>-</td>
     </tr>
   </tbody>
