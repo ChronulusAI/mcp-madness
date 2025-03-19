@@ -52,7 +52,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 ## Tournament Schedule with Win Probability Predictions
 
-<table>
+<table style="font-size:0.7rem">
   <thead>
     <tr>
       <th>Date</th>
