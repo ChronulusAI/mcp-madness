@@ -1,6 +1,54 @@
 # 2025 NCAA Men's Basketball Tournament Schedule and Predictions
 
-This document contains the schedule of games for the 2025 NCAA Men's Basketball Tournament along with win probability predictions.
+This is the schedule of games for the 2025 NCAA Men's Basketball Tournament along with win probability predictions for each team provide by Chronulus AI.
+
+For the first match up, the following prompt was used in Claude to setup the Chronulus Session and get the first prediction. Replace the items in {{brackets}} with your own values. 
+
+
+``` 
+The 2025 NCAA Men's basketball tournament starts tomorrow. I would like to make predictions for the first round of the tournament. 
+
+Please a new Chronulus Session for this and setup a data model that you can plug in data for each match up separately. I want to reuse the same BinaryPredictor for each match up. In the task, be sure to specific that we want to predict the probability that team 1 wins the matchup.
+
+As input data, I will give you images and injury reports (if one is available) for each match up in folder in my workspace. I have also include a PDF of the bracket and a text file with the current schedule in my workspace.
+
+Pass these images and documents to Chronulus. Additionally, please include one field for "Additional context" and one for a list of additional images. In some matches, I will want to provide more details or additional images that are not available for other matches. These fields will be used for those.
+
+In the fields that you create that contain information about a specific team, prefix the fields with 'team_1' and 'team_2' according how the team is listed in the match up I provide.
+
+When you have the predictions, please save the results as html in `picks'.
+
+Let's start..
+
+Get the Chronulus predictions for this match up in {{'round1-south'}}: 
+
+{{(8) Louisville vs. (9) Creighton, 12:15 p.m. | CBS}}
+```
+
+
+In subsequent conversations, the follow prompt was used in Claude to reuse the session from the first match up.
+
+```
+The 2025 NCAA Men's basketball tournament starts tomorrow. I would like to make predictions for the first round of the tournament. 
+
+Please reuse the Chronulus session with session id = 'd2eb49bb-9dd4-5592-a050-8a04e926ae97' for this and setup a data model that you can plug in data for each match up separately. I want to reuse the same BinaryPredictor for each match up.
+
+As input data, I will give you images and injury reports (if one is available) for each match up in folder in my workspace. I have also include a PDF of the bracket and a text file with the current schedule in my workspace.
+
+Pass these images and documents to Chronulus. Additionally, please include one field for "Additional context" and one for a list of additional images. In some matches, I will want to provide more details or additional images that are not available for other matches. These fields will be used for those.
+
+In the fields that you create that contain information about a specific team, prefix the fields with 'team_1' and 'team_2' according how the team is listed in the match up I provide. This needed because the session is setup to predict the probability that team 1 will win. So need to make sure this is correctly labeled.
+
+When you have the predictions, please save the results as html in `picks'.
+
+Let's start..
+
+Please ask Chronulus to predict the probability that the first team listed in the following matchup will win. Use 5 experts.
+
+Get the Chronulus predictions for this match up in {{'round1-midwest'}}: 
+
+{{(4) Purdue vs. (13) High Point, 12:40 p.m. | truTV}}
+```
 
 ## Tournament Schedule with Win Probability Predictions
 
@@ -59,8 +107,8 @@ This document contains the schedule of games for the 2025 NCAA Men's Basketball 
       <td>East</td>
       <td>Louisville (8)</td>
       <td>Creighton (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>49.59%</td>
+      <td>50.41%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -68,8 +116,8 @@ This document contains the schedule of games for the 2025 NCAA Men's Basketball 
       <td>Midwest</td>
       <td>Purdue (4)</td>
       <td>High Point (13)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>85.76%</td>
+      <td>14.23%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
