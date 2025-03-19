@@ -248,11 +248,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Mississippi State (8)</td>
       <td>Baylor (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>50.78%</td>
+      <td>49.22%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -383,11 +383,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Oregon (5)</td>
       <td>Liberty (12)</td>
-      <td></td>
-      <td>-</td>
+      <td>65.53%</td>
+      <td>34.47%</td>
     </tr>
   </tbody>
 </table>
