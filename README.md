@@ -356,11 +356,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>UConn (8)</td>
       <td>Oklahoma (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>50.84%</td>
+      <td>49.16% [Update with news on Godwin's status]</td>
     </tr>
     <tr>
       <td>Mar 21</td>
