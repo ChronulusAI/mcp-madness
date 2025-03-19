@@ -107,8 +107,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>South</td>
       <td>Louisville (8)</td>
       <td>Creighton (9)</td>
-      <td>49.59%</td>
-      <td>50.41%</td>
+      <td>46.32%</td>
+      <td>53.67%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
