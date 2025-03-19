@@ -134,8 +134,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>South</td>
       <td>Houston (1)</td>
       <td>SIU Edwardsville (16)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>97.20%</td>
+      <td>2.80%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
