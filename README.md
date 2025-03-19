@@ -158,7 +158,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>BYU (6)</td>
       <td>VCU (11)</td>
       <td>49.95%</td>
