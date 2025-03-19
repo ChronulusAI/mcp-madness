@@ -239,11 +239,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Texas Tech (3)</td>
       <td>UNC Wilmington (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>82.15%</td>
+      <td>17.85%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
