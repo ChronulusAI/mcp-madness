@@ -167,11 +167,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>Gonzaga (8)</td>
       <td>Georgia (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>49.01%</td>
+      <td>50.99%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
