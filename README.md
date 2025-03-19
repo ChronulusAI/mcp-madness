@@ -320,11 +320,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Florida (1)</td>
       <td>Norfolk State (16)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>97.26%</td>
+      <td>2.74%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
