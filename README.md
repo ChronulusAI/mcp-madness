@@ -185,11 +185,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Kansas (7)</td>
       <td>Arkansas (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>51.16%</td>
+      <td>48.84% [upset watch - refresh with injury news / tips]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -198,16 +198,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>Texas A&M (4)</td>
       <td>Yale (13)</td>
       <td>52.81%</td>
-      <td>47.19%</td>
+      <td>47.19% [upset watch - refresh with injury news / tips]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Missouri (6)</td>
       <td>Drake (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>46.53%</td>
+      <td>53.47% [upset alert]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -216,16 +216,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>UCLA (7)</td>
       <td>Utah State (10)</td>
       <td>44.61%</td>
-      <td>55.39%</td>
+      <td>55.39% [upset alert]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>St. John's (2)</td>
       <td>Omaha (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>88.90%</td>
+      <td>11.10%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -239,11 +239,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Texas Tech (3)</td>
       <td>UNC Wilmington (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>82.15%</td>
+      <td>17.85%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -275,11 +275,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Memphis (5)</td>
       <td>Colorado State (12)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>55.11%</td>
+      <td>44.89% [upset watch - refresh with news on injuries]</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -306,25 +306,25 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>Ole Miss (6)</td>
       <td>North Carolina (11)</td>
       <td>47.13%</td>
-      <td>52.87%</td>
+      <td>52.87% [upsert alert - if you can call UNC an underdog]</td>
     </tr>
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Maryland (4)</td>
       <td>Grand Canyon (13)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>71.93%</td>
+      <td>28.07%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>Florida (1)</td>
       <td>Norfolk State (16)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>97.26%</td>
+      <td>2.74%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -356,11 +356,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>West</td>
       <td>UConn (8)</td>
       <td>Oklahoma (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>50.84%</td>
+      <td>49.16% [Update with news on Godwin's status]</td>
     </tr>
     <tr>
       <td>Mar 21</td>

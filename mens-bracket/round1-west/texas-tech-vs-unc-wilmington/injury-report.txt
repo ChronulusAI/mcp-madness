@@ -1,0 +1,23 @@
+For injuries, be sure to consider the timing of the injury. Players are injured earlier in the season are less likely to impact tournament play unless to shortens the bench. However, for teams in weaker conferences where their strength of schedule is a result of early season play, an injury to a key player after this could still be meaningful.
+
+Texas Tech's Injuries
+Player	POS	Status	Date	Note
+C. McMillian	G	Probable - Upper Body	Mar 13, '25	
+McMillian is battling an upper body injury but is expected to take the court for the Red Raiders.
+D. Williams	F	Probable - Foot	Mar 13, '25	
+Williams is dealing with a foot injury but is expected to take the court for the Red Raiders.
+E. Yalaho	F	Questionable - Upper Body	Feb 11, '25	
+Yalaho is dealing with an upper-body injury and is uncertain to take the court for the Red Raiders.
+J. Henderson	G	Out - Lower Body	Nov 04, '24	
+Henderson is dealing with a lower body injury and will not take the court for the Red Raiders. He will miss an extended period of time.
+
+McMillian contributes the following stats per game:
+
+PTS	Reb	A	Pts+Reb	Pts+Reb+A	3PM-3PA (%)	FGM-FGA (%)	FTM-FTA (%)	TO	S	BLK	MIN
+7.6	2.2	2.1	9.8	11.9	1.3 - 3.2 (40.6)	2.5 - 4.8 (52.1)	1.3 - 1.3 (100.0)	0.6	0.4	0.0	21:36
+
+
+Williams contributes the following stats per game:
+
+PTS	Reb	A	Pts+Reb	Pts+Reb+A	3PM-3PA (%)	FGM-FGA (%)	FTM-FTA (%)	TO	S	BLK	MIN	ATS	O/U
+10.2	3.9	2.3	14.1	16.4	1.4 - 3.4 (41.2)	3.7 - 8.3 (44.6)	1.4 - 1.6 (87.5)	1.0	0.6	0.1	24:06
