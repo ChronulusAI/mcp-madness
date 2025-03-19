@@ -212,11 +212,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>UCLA (7)</td>
       <td>Utah State (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>44.61%</td>
+      <td>55.39%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
