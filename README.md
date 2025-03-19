@@ -266,11 +266,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Iowa State (3)</td>
       <td>Lipscomb (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>81.42%</td>
+      <td>18.58%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -338,11 +338,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>South</td>
       <td>Marquette (7)</td>
       <td>New Mexico (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>56.45%</td>
+      <td>43.55</td>
     </tr>
     <tr>
       <td>Mar 21</td>
