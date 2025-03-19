@@ -125,8 +125,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>West</td>
       <td>Wisconsin (3)</td>
       <td>Montana (14)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>81.15%</td>
+      <td>18.85%</td>
     </tr>
     <tr>
       <td>Mar 20</td>
