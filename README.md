@@ -433,6 +433,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>28.25%</td>
       <td>71.75%</td>
     </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Houston (1)</td>
+      <td>Georgia (9)</td>
+      <td>80.78%</td>
+      <td>19.22%</td>
+    </tr>
   
   </tbody>
 </table>
