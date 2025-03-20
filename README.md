@@ -482,6 +482,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>30.31%</td>
       <td>69.69%</td>
     </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>West</td>
+      <td>North Carolina (11)</td>
+      <td>Iowa St (3)</td>
+      <td>38.35%</td>
+      <td>61.65%</td>
+    </tr>
   
   </tbody>
 </table>
