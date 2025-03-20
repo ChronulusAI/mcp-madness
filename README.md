@@ -456,11 +456,31 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 <tr>
       <td></td>
       <td>Round 2</td>
-      <td>Midwest</td>
+      <td>West</td>
       <td>Kansas (7)</td>
       <td>St. John's (2)</td>
       <td>29.08%</td>
       <td>70.92%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Michigan (5)</td>
+      <td>Texas A&M (4)</td>
+      <td>42.19%</td>
+      <td>57.81%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>West</td>
+      <td>Drake (11)</td>
+      <td>Texas Tech (3)</td>
+      <td>30.31%</td>
+      <td>69.69%</td>
     </tr>
   
   </tbody>
