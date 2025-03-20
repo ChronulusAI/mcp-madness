@@ -365,7 +365,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>Midwest</td>
       <td>Illinois (6)</td>
       <td>Xavier (11)</td>
       <td>47.67%</td>
@@ -392,6 +392,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   </tbody>
 </table>
 
+
+### Round 2 (before 12pm EST on March 20)
 
 <table style="font-size:0.8rem">
   <thead>
@@ -514,6 +516,34 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>52.38%</td>
     </tr>
   
+  </tbody>
+</table>
+
+### Round 2 (after 12pm EST on March 20)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Round</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Marquette (7)</td>
+      <td>Michigan St (2)</td>
+      <td>36.39%</td>
+      <td>63.61%</td>
+    </tr>
+   
   </tbody>
 </table>
 
