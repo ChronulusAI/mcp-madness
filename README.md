@@ -293,11 +293,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Saint Mary's (7)</td>
       <td>Vanderbilt (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>61.78%</td>
+      <td>38.22%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
