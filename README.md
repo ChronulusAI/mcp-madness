@@ -392,6 +392,131 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   </tbody>
 </table>
 
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Round</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Auburn (1)</td>
+      <td>Creighton (9)</td>
+      <td>64.42%</td>
+      <td>35.58%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Clemson (5)</td>
+      <td>Purdue (4)</td>
+      <td>38.37%</td>
+      <td>61.63%</td>
+    </tr>
+ <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>East</td>
+      <td>VCU (11)</td>
+      <td>Wisconsin (3)</td>
+      <td>28.25%</td>
+      <td>71.75%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Houston (1)</td>
+      <td>Georgia (9)</td>
+      <td>80.78%</td>
+      <td>19.22%</td>
+    </tr>
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Utah st (10)</td>
+      <td>Tennessee (2)</td>
+      <td>23.22%</td>
+      <td>76.78%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>West</td>
+      <td>Kansas (7)</td>
+      <td>St. John's (2)</td>
+      <td>29.08%</td>
+      <td>70.92%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Michigan (5)</td>
+      <td>Texas A&M (4)</td>
+      <td>42.19%</td>
+      <td>57.81%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>West</td>
+      <td>Drake (11)</td>
+      <td>Texas Tech (3)</td>
+      <td>30.31%</td>
+      <td>69.69%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>North Carolina (11)</td>
+      <td>Iowa St (3)</td>
+      <td>38.35%</td>
+      <td>61.65%</td>
+    </tr>
+
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Oregon (5)</td>
+      <td>Arizona (4)</td>
+      <td>44.39%</td>
+      <td>55.61%</td>
+    </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Memphis (5)</td>
+      <td>Maryland (4)</td>
+      <td>47.62%</td>
+      <td>52.38%</td>
+    </tr>
+  
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
