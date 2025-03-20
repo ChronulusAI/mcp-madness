@@ -503,6 +503,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>44.39%</td>
       <td>55.61%</td>
     </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Memphis (5)</td>
+      <td>Maryland (4)</td>
+      <td>47.62%</td>
+      <td>52.38%</td>
+    </tr>
   
   </tbody>
 </table>
