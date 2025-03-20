@@ -260,8 +260,8 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td></td>
       <td>Alabama (2)</td>
       <td>Robert Morris (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>89.71%</td>
+      <td>10.29%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
