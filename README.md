@@ -407,13 +407,31 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   </thead>
   <tbody>
     <tr>
-      <td>Mar 18</td>
+      <td></td>
       <td>Round 2</td>
       <td>South</td>
       <td>Auburn (1)</td>
       <td>Creighton (9)</td>
       <td>64.42%</td>
       <td>35.58%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Clemson (5)</td>
+      <td>Purdue (4)</td>
+      <td>38.37%</td>
+      <td>61.63%</td>
+    </tr>
+ <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>East</td>
+      <td>VCU (11)</td>
+      <td>Wisconsin (3)</td>
+      <td>28.25%</td>
+      <td>71.75%</td>
     </tr>
   
   </tbody>
