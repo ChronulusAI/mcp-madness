@@ -543,6 +543,15 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>36.39%</td>
       <td>63.61%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Xavier (11)</td>
+      <td>Kentucky (3)</td>
+      <td>27.52%</td>
+      <td>72.48%</td>
+    </tr>
    
   </tbody>
 </table>
