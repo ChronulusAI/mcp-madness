@@ -158,11 +158,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 20</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>BYU (6)</td>
       <td>VCU (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>49.95%</td>
+      <td>50.05% [upset watch - refresh is more experts and fresh news]</td>
     </tr>
     <tr>
       <td>Mar 20</td>
@@ -248,20 +248,20 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Mississippi State (8)</td>
       <td>Baylor (9)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>50.78%</td>
+      <td>49.22%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Alabama (2)</td>
       <td>Robert Morris (15)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>89.71%</td>
+      <td>10.29%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -284,20 +284,20 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Duke (1)</td>
-      <td>TBD (16)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Mount Saint Mary's (16)</td>
+      <td>97.95%</td>
+      <td>2.05%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Saint Mary's (7)</td>
       <td>Vanderbilt (10)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>61.78%</td>
+      <td>38.22%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -347,11 +347,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Arizona (4)</td>
       <td>Akron (13)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>76.60%</td>
+      <td>23.40%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -367,9 +367,9 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>First Round</td>
       <td></td>
       <td>Illinois (6)</td>
-      <td>TBD (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Xavier (11)</td>
+      <td>47.67%</td>
+      <td>52.33%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
@@ -383,11 +383,11 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     <tr>
       <td>Mar 21</td>
       <td>First Round</td>
-      <td></td>
+      <td>East</td>
       <td>Oregon (5)</td>
       <td>Liberty (12)</td>
-      <td></td>
-      <td>-</td>
+      <td>65.53%</td>
+      <td>34.47%</td>
     </tr>
   </tbody>
 </table>
