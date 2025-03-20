@@ -392,6 +392,33 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   </tbody>
 </table>
 
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Round</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mar 18</td>
+      <td>Round 2</td>
+      <td>South</td>
+      <td>Auburn (1)</td>
+      <td>Creighton (9)</td>
+      <td>64.42%</td>
+      <td>35.58%</td>
+    </tr>
+  
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
