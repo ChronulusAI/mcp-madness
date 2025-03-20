@@ -286,7 +286,7 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>First Round</td>
       <td>East</td>
       <td>Duke (1)</td>
-      <td>TBD (16)</td>
+      <td>Mount Saint Mary's (16)</td>
       <td>97.95%</td>
       <td>2.05%</td>
     </tr>
@@ -367,9 +367,9 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>First Round</td>
       <td></td>
       <td>Illinois (6)</td>
-      <td>TBD (11)</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Xavier (11)</td>
+      <td>47.67%</td>
+      <td>52.33%</td>
     </tr>
     <tr>
       <td>Mar 21</td>
