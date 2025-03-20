@@ -452,6 +452,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>23.22%</td>
       <td>76.78%</td>
     </tr>
+
+<tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>Midwest</td>
+      <td>Kansas (7)</td>
+      <td>St. John's (2)</td>
+      <td>29.08%</td>
+      <td>70.92%</td>
+    </tr>
   
   </tbody>
 </table>
