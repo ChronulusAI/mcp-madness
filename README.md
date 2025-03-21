@@ -552,6 +552,15 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>27.52%</td>
       <td>72.48%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>West</td>
+      <td>Florida (1)</td>
+      <td>UConn (8)</td>
+      <td>51.94%</td>
+      <td>48.06%</td>
+    </tr>
    
   </tbody>
 </table>
