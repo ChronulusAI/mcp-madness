@@ -561,6 +561,15 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>51.94%</td>
       <td>48.06%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>East</td>
+      <td>Saint Mary's (7)</td>
+      <td>Alabama (2)</td>
+      <td>33.16%</td>
+      <td>66.84%</td>
+    </tr>
    
   </tbody>
 </table>
