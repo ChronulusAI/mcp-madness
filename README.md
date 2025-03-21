@@ -570,7 +570,15 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
       <td>33.16%</td>
       <td>66.84%</td>
     </tr>
-   
+       <tr>
+      <td></td>
+      <td>Round 2</td>
+      <td>East</td>
+      <td>Duke (1)</td>
+      <td>Mississippi St (8)</td>
+      <td>73.85%</td>
+      <td>26.15%</td>
+    </tr>
   </tbody>
 </table>
 
