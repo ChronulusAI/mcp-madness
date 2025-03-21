@@ -1,0 +1,75 @@
+{
+  "session_id": "1b330f4b-f0ac-5c06-975d-9f41c5abf58d",
+  "name": "NCAA Tournament 2025 Predictions",
+  "situation": "The 2025 NCAA Men's Basketball Tournament starts tomorrow. We want to make predictions for the matchups in the first round (Round of 64) of the tournament. Each matchup features two teams with different seeds, playing strengths, and histories.",
+  "task": "For each specific matchup, predict the probability that the first team listed (Team 1) will win against the second team (Team 2), based on their season performance, player statistics, injuries, and other relevant factors.",
+  "input_data_model": [
+    {
+      "name": "matchup_description",
+      "description": "A brief description of the matchup including the team names, seeds, and when they play"
+    },
+    {
+      "name": "team_1_name",
+      "description": "The name of the first team in the matchup"
+    },
+    {
+      "name": "team_1_seed",
+      "description": "The seed number of the first team"
+    },
+    {
+      "name": "team_2_name",
+      "description": "The name of the second team in the matchup"
+    },
+    {
+      "name": "team_2_seed",
+      "description": "The seed number of the second team"
+    },
+    {
+      "name": "bracket_pdf",
+      "type": "PdfFromFile",
+      "description": "The complete NCAA tournament bracket"
+    },
+    {
+      "name": "schedule_info",
+      "description": "Information about the tournament schedule"
+    },
+    {
+      "name": "team_1_schedule",
+      "type": "ImageFromFile",
+      "description": "The season schedule with results for team 1"
+    },
+    {
+      "name": "team_2_schedule",
+      "type": "ImageFromFile",
+      "description": "The season schedule with results for team 2"
+    },
+    {
+      "name": "kenpom_matchup_all_games",
+      "type": "ImageFromFile",
+      "description": "KenPom comparison of the teams for all games played"
+    },
+    {
+      "name": "kenpom_matchup_conference",
+      "type": "ImageFromFile",
+      "description": "KenPom comparison of the teams for conference games only"
+    },
+    {
+      "name": "player_stats",
+      "type": "ImageFromFile",
+      "description": "Player statistics for both teams"
+    },
+    {
+      "name": "injury_report",
+      "description": "Information about player injuries that could impact the game"
+    },
+    {
+      "name": "additional_context",
+      "description": "Any additional information or context about the matchup"
+    },
+    {
+      "name": "additional_images",
+      "type": "List[ImageFromFile]",
+      "description": "Any additional relevant images for analysis"
+    }
+  ]
+}
