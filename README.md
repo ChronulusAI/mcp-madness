@@ -1,6 +1,10 @@
-# 2025 NCAA Men's Basketball Tournament Schedule and Predictions
+# March Madness Picks with Chronulus AI 
 
-This is the schedule of games for the 2025 NCAA Men's Basketball Tournament along with win probability predictions for each team provide by Chronulus AI.
+This repository demonstrates using the BinaryPredictor agent by Chronulus AI to estimate win probabilities for match-ups in the 2025 NCAA Men's Basketball Tournament.
+
+
+
+
 
 For the first match up, the following prompt was used in Claude to setup the Chronulus Session and get the first prediction. Replace the items in `{{brackets}}` with your own values. 
 
@@ -50,13 +54,19 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 {{(4) Purdue vs. (13) High Point, 12:40 p.m. | truTV}}
 ```
 
+
+
+
 ## Tournament Schedule with Win Probability Predictions
+
+This is the schedule of games for the 2025 NCAA Men's Basketball Tournament along with win probability predictions for each team provided by Chronulus AI.
+
+### First Four
 
 <table style="font-size:0.8rem">
   <thead>
     <tr>
       <th>Date</th>
-      <th>Round</th>
       <th>Region</th>
       <th>Team 1 (Seed)</th>
       <th>Team 2 (Seed)</th>
@@ -67,7 +77,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   <tbody>
     <tr>
       <td>Mar 18</td>
-      <td>First Four</td>
       <td>South</td>
       <td>Alabama State (16)</td>
       <td>Saint Francis (16)</td>
@@ -76,7 +85,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 18</td>
-      <td>First Four</td>
       <td>South</td>
       <td>San Diego State (11)</td>
       <td>North Carolina (11)</td>
@@ -85,7 +93,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 19</td>
-      <td>First Four</td>
       <td>East</td>
       <td>American University (16)</td>
       <td>Mount St. Mary's (16)</td>
@@ -94,16 +101,31 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 19</td>
-      <td>First Four</td>
       <td>Midwest</td>
       <td>Texas (11)</td>
       <td>Xavier (11)</td>
       <td>49.87%</td>
       <td>50.13%</td>
     </tr>
+  </tbody>
+</table>
+
+### First Round
+
+<table style="font-size:0.8rem">
+<thead>
+<tr>
+  <th>Date</th>
+  <th>Region</th>
+  <th>Team 1 (Seed)</th>
+  <th>Team 2 (Seed)</th>
+  <th>Team 1 Win %</th>
+  <th>Team 2 Win %</th>
+</tr>
+</thead>
+<tbody>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Louisville (8)</td>
       <td>Creighton (9)</td>
@@ -112,7 +134,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Purdue (4)</td>
       <td>High Point (13)</td>
@@ -121,7 +142,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Wisconsin (3)</td>
       <td>Montana (14)</td>
@@ -130,7 +150,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Houston (1)</td>
       <td>SIU Edwardsville (16)</td>
@@ -139,7 +158,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Auburn (1)</td>
       <td>Alabama State (16)</td>
@@ -148,7 +166,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Clemson (5)</td>
       <td>McNeese (12)</td>
@@ -157,7 +174,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>East</td>
       <td>BYU (6)</td>
       <td>VCU (11)</td>
@@ -166,7 +182,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Gonzaga (8)</td>
       <td>Georgia (9)</td>
@@ -175,7 +190,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Tennessee (2)</td>
       <td>Wofford (15)</td>
@@ -184,7 +198,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Kansas (7)</td>
       <td>Arkansas (10)</td>
@@ -193,7 +206,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Texas A&M (4)</td>
       <td>Yale (13)</td>
@@ -202,7 +214,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Missouri (6)</td>
       <td>Drake (11)</td>
@@ -211,7 +222,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>UCLA (7)</td>
       <td>Utah State (10)</td>
@@ -220,7 +230,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>West</td>
       <td>St. John's (2)</td>
       <td>Omaha (15)</td>
@@ -229,7 +238,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Michigan (5)</td>
       <td>UC San Diego (12)</td>
@@ -238,7 +246,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 20</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Texas Tech (3)</td>
       <td>UNC Wilmington (14)</td>
@@ -247,7 +254,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Mississippi State (8)</td>
       <td>Baylor (9)</td>
@@ -256,7 +262,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Alabama (2)</td>
       <td>Robert Morris (15)</td>
@@ -265,7 +270,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Iowa State (3)</td>
       <td>Lipscomb (14)</td>
@@ -274,7 +278,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Memphis (5)</td>
       <td>Colorado State (12)</td>
@@ -283,7 +286,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Duke (1)</td>
       <td>Mount Saint Mary's (16)</td>
@@ -292,7 +294,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Saint Mary's (7)</td>
       <td>Vanderbilt (10)</td>
@@ -301,7 +302,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Ole Miss (6)</td>
       <td>North Carolina (11)</td>
@@ -310,7 +310,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Maryland (4)</td>
       <td>Grand Canyon (13)</td>
@@ -319,7 +318,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>West</td>
       <td>Florida (1)</td>
       <td>Norfolk State (16)</td>
@@ -328,7 +326,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Kentucky (3)</td>
       <td>Troy (14)</td>
@@ -337,7 +334,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Marquette (7)</td>
       <td>New Mexico (10)</td>
@@ -346,7 +342,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Arizona (4)</td>
       <td>Akron (13)</td>
@@ -355,7 +350,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>West</td>
       <td>UConn (8)</td>
       <td>Oklahoma (9)</td>
@@ -364,7 +358,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>Midwest</td>
       <td>Illinois (6)</td>
       <td>Xavier (11)</td>
@@ -373,7 +366,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>South</td>
       <td>Michigan State (2)</td>
       <td>Bryant (15)</td>
@@ -382,7 +374,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td>Mar 21</td>
-      <td>First Round</td>
       <td>East</td>
       <td>Oregon (5)</td>
       <td>Liberty (12)</td>
@@ -393,13 +384,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 </table>
 
 
-### Round 2 (before 12pm EST on March 20)
+### Second Round (before 12pm EST on March 20)
+
+These probabilities were estimated before 12pm EST on March 20th using data for games through March 19th.
+
+The games listed here explore the bracket hypothetical case that each of the picks from the first round will be / were correct.
 
 <table style="font-size:0.8rem">
   <thead>
     <tr>
       <th>Date</th>
-      <th>Round</th>
       <th>Region</th>
       <th>Team 1 (Seed)</th>
       <th>Team 2 (Seed)</th>
@@ -410,7 +404,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   <tbody>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>Auburn (1)</td>
       <td>Creighton (9)</td>
@@ -419,7 +412,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>Midwest</td>
       <td>Clemson (5)</td>
       <td>Purdue (4)</td>
@@ -428,7 +420,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
  <tr>
       <td></td>
-      <td>Round 2</td>
       <td>East</td>
       <td>VCU (11)</td>
       <td>Wisconsin (3)</td>
@@ -438,7 +429,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>Midwest</td>
       <td>Houston (1)</td>
       <td>Georgia (9)</td>
@@ -447,7 +437,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>Midwest</td>
       <td>Utah st (10)</td>
       <td>Tennessee (2)</td>
@@ -457,7 +446,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>West</td>
       <td>Kansas (7)</td>
       <td>St. John's (2)</td>
@@ -467,7 +455,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>Michigan (5)</td>
       <td>Texas A&M (4)</td>
@@ -477,7 +464,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>West</td>
       <td>Drake (11)</td>
       <td>Texas Tech (3)</td>
@@ -487,7 +473,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>North Carolina (11)</td>
       <td>Iowa St (3)</td>
@@ -498,7 +483,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>Oregon (5)</td>
       <td>Arizona (4)</td>
@@ -508,7 +492,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
 
 <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>Memphis (5)</td>
       <td>Maryland (4)</td>
@@ -519,13 +502,16 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   </tbody>
 </table>
 
-### Round 2 (after 12pm EST on March 20)
+### Second Round (after 12pm EST on March 20)
+
+These probabilities were estimated after 12pm EST on March 20th using data for games through March 19th. However, none of the match-ups estimated in this section depend on results of games from March 20. So while they are not useful for bracket-making (past the deadeline), they are still free of potential data leakage.
+
+The games listed here explore the bracket hypothetical case that each of the picks from the first round will be / were correct.
 
 <table style="font-size:0.8rem">
   <thead>
     <tr>
       <th>Date</th>
-      <th>Round</th>
       <th>Region</th>
       <th>Team 1 (Seed)</th>
       <th>Team 2 (Seed)</th>
@@ -536,7 +522,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
   <tbody>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>South</td>
       <td>Marquette (7)</td>
       <td>Michigan St (2)</td>
@@ -545,7 +530,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>Midwest</td>
       <td>Xavier (11)</td>
       <td>Kentucky (3)</td>
@@ -554,7 +538,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>West</td>
       <td>Florida (1)</td>
       <td>UConn (8)</td>
@@ -563,7 +546,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
     <tr>
       <td></td>
-      <td>Round 2</td>
       <td>East</td>
       <td>Saint Mary's (7)</td>
       <td>Alabama (2)</td>
@@ -572,7 +554,6 @@ Get the Chronulus predictions for this match up in {{'round1-midwest'}}:
     </tr>
        <tr>
       <td></td>
-      <td>Round 2</td>
       <td>East</td>
       <td>Duke (1)</td>
       <td>Mississippi St (8)</td>
