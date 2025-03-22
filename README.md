@@ -623,6 +623,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>26.12%</td>
       <td>73.88%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>Auburn (1)</td>
+      <td>Creighton (9)</td>
+      <td>61.81%</td>
+      <td>38.19%</td>
+    </tr>
   </tbody>
 </table>
 
