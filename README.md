@@ -639,6 +639,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>39.09%</td>
       <td>60.91%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Midwest</td>
+      <td>Houston (1)</td>
+      <td>Gonzaga (8)</td>
+      <td>69.78%</td>
+      <td>30.22%</td>
+    </tr>
   </tbody>
 </table>
 
