@@ -593,11 +593,19 @@ The games listed here explore the bracket hypothetical case that each of the pic
   <tbody>
     <tr>
       <td></td>
-      <td>East</td>
+      <td>Midwest</td>
       <td>McNeese (12)</td>
       <td>Purdue (4)</td>
       <td>23.40%</td>
       <td>76.60%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>West</td>
+      <td>Arkansas (10)</td>
+      <td>St. John's (2)</td>
+      <td>29.10%</td>
+      <td>70.90%</td>
     </tr>
   </tbody>
 </table>
