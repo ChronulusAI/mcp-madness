@@ -615,6 +615,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>42.94%</td>
       <td>57.06%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>West</td>
+      <td>Drake (11)</td>
+      <td>Texas Tech (3)</td>
+      <td>26.12%</td>
+      <td>73.88%</td>
+    </tr>
   </tbody>
 </table>
 
