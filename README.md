@@ -631,6 +631,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>61.81%</td>
       <td>38.19%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>BYU (6)</td>
+      <td>Wisconsin (3)</td>
+      <td>39.09%</td>
+      <td>60.91%</td>
+    </tr>
   </tbody>
 </table>
 
