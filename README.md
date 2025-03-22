@@ -607,6 +607,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>29.10%</td>
       <td>70.90%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>Michigan (5)</td>
+      <td>Texas A&M (4)</td>
+      <td>42.94%</td>
+      <td>57.06%</td>
+    </tr>
   </tbody>
 </table>
 
