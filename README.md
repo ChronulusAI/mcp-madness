@@ -576,6 +576,32 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+
+### Second Round (Updated with data on games through March 21)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>McNeese (12)</td>
+      <td>Purdue (4)</td>
+      <td>23.40%</td>
+      <td>76.60%</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
