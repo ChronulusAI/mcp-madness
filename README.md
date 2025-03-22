@@ -647,6 +647,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>69.78%</td>
       <td>30.22%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Midwest</td>
+      <td>UCLA (7)</td>
+      <td>Tennessee (2)</td>
+      <td>28.78%</td>
+      <td>71.22%</td>
+    </tr>
   </tbody>
 </table>
 
