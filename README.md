@@ -721,6 +721,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>36.09%</td>
       <td>63.91%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>New Mexico (10)</td>
+      <td>Michigan St. (2)</td>
+      <td>29.74%</td>
+      <td>70.26%</td>
+    </tr>
   </tbody>
 </table>
 
