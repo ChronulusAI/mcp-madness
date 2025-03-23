@@ -705,6 +705,38 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>30.46%</td>
       <td>69.54%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>West</td>
+      <td>Colorado St. (12)</td>
+      <td>Maryland (4)</td>
+      <td>34.75%</td>
+      <td>65.25%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>Mississippi (6)</td>
+      <td>Iowa St. (3)</td>
+      <td>36.09%</td>
+      <td>63.91%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>New Mexico (10)</td>
+      <td>Michigan St. (2)</td>
+      <td>29.74%</td>
+      <td>70.26%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>Oregon (5)</td>
+      <td>Arizona (4)</td>
+      <td>41.68%</td>
+      <td>58.32%</td>
+    </tr>
   </tbody>
 </table>
 
