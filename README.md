@@ -577,7 +577,7 @@ The games listed here explore the bracket hypothetical case that each of the pic
 </table>
 
 
-### Second Round (Updated with data on games through March 21)
+### Second Round - Day 1 (Updated with data on games through March 21)
 
 <table style="font-size:0.8rem">
   <thead>
@@ -654,6 +654,32 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>Tennessee (2)</td>
       <td>28.78%</td>
       <td>71.22%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Second Round - Day 2 (Updated with data on games through March 22)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>West</td>
+      <td>Florida (1)</td>
+      <td>UConn (8)</td>
+      <td>50.95%</td>
+      <td>49.05%</td>
     </tr>
   </tbody>
 </table>
