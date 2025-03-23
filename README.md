@@ -689,6 +689,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>73.82%</td>
       <td>26.17%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>Midwest</td>
+      <td>Illinois (6)</td>
+      <td>Kentucky (3)</td>
+      <td>40.21%</td>
+      <td>59.79%</td>
+    </tr>
   </tbody>
 </table>
 
