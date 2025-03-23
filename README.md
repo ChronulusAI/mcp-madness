@@ -705,6 +705,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>30.46%</td>
       <td>69.54%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>West</td>
+      <td>Colorado St. (12)</td>
+      <td>Maryland (4)</td>
+      <td>34.75%</td>
+      <td>65.25%</td>
+    </tr>
   </tbody>
 </table>
 
