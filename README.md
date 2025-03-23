@@ -681,6 +681,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>50.95%</td>
       <td>49.05%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>Duke (1)</td>
+      <td>Baylor (9)</td>
+      <td>73.82%</td>
+      <td>26.17%</td>
+    </tr>
   </tbody>
 </table>
 
