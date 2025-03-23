@@ -729,6 +729,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>29.74%</td>
       <td>70.26%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>Oregon (5)</td>
+      <td>Arizona (4)</td>
+      <td>41.68%</td>
+      <td>58.32%</td>
+    </tr>
   </tbody>
 </table>
 
