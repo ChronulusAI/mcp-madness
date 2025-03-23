@@ -713,6 +713,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>34.75%</td>
       <td>65.25%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>South</td>
+      <td>Mississippi (6)</td>
+      <td>Iowa St. (3)</td>
+      <td>36.09%</td>
+      <td>63.91%</td>
+    </tr>
   </tbody>
 </table>
 
