@@ -697,6 +697,14 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>40.21%</td>
       <td>59.79%</td>
     </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>Saint Mary's (7)</td>
+      <td>Alabama (2)</td>
+      <td>30.46%</td>
+      <td>69.54%</td>
+    </tr>
   </tbody>
 </table>
 
