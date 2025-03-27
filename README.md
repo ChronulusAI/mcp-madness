@@ -740,6 +740,39 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+### Sweet 16- Day 1 (Updated with data on games through March 26)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>BYU (6)</td>
+      <td>Alabama (1)</td>
+      <td>33.23%</td>
+      <td>66.77%</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>East</td>
+      <td>Alabama (1)</td>
+      <td>BYU (6)</td>
+      <td>67.85%</td>
+      <td>32.15%</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
