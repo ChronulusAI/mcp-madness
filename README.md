@@ -745,30 +745,30 @@ The games listed here explore the bracket hypothetical case that each of the pic
 <table style="font-size:0.8rem">
   <thead>
     <tr>
-      <th>Date</th>
       <th>Region</th>
       <th>Team 1 (Seed)</th>
       <th>Team 2 (Seed)</th>
       <th>Team 1 Win %</th>
       <th>Team 2 Win %</th>
+      <th>Output</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td></td>
       <td>East</td>
       <td>BYU (6)</td>
       <td>Alabama (1)</td>
       <td>33.23%</td>
       <td>66.77%</td>
+      <td><a src="picks/byu-vs-alabama.txt">txt</a></td>
     </tr>
     <tr>
-      <td></td>
       <td>East</td>
       <td>Alabama (1)</td>
       <td>BYU (6)</td>
       <td>67.85%</td>
       <td>32.15%</td>
+      <td><a src="picks/alabama-vs-buy.txt">txt</a></td>
     </tr>
   </tbody>
 </table>
