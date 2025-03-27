@@ -760,7 +760,7 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>Alabama (1)</td>
       <td>33.23%</td>
       <td>66.77%</td>
-      <td><a href="picks/byu-vs-alabama.txt">txt</a></td>
+      <td><a href="mens-bracket/picks/byu-vs-alabama.txt">txt</a></td>
     </tr>
     <tr>
       <td>East</td>
@@ -768,7 +768,7 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>BYU (6)</td>
       <td>67.85%</td>
       <td>32.15%</td>
-      <td><a href="picks/alabama-vs-buy.txt">txt</a></td>
+      <td><a href="mens-bracket/picks/alabama-vs-buy.txt">txt</a></td>
     </tr>
   </tbody>
 </table>
