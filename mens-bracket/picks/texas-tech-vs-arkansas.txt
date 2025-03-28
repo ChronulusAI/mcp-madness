@@ -1,0 +1,91 @@
+(0.5692645282357881, 0.4307354717642119) with Beta(13.384034054868566, 10.127063846044257)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win their Sweet 16 matchup against Arkansas in the NCAA Men's Basketball Championship West Region?
+
+Pred: (58.47%*, 41.53%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent game history, I expect a competitive matchup with Texas Tech holding a moderate advantage. The Red Raiders demonstrate superior offensive efficiency and better shooting percentages across most categories. Their defensive metrics also show stronger consistency, particularly in limiting opponent scoring opportunities. The outcomes are likely skewed slightly in Texas Tech's favor due to their more balanced scoring distribution and deeper rotation of contributors. While Arkansas has shown impressive tournament resilience, their lower offensive efficiency and more volatile performance patterns suggest less consistency in execution. Results are concentrated around a Texas Tech victory, though there remains meaningful uncertainty due to Arkansas's demonstrated ability to elevate their game in tournament settings. The defensive prowess of both teams suggests a closely contested game where small advantages in execution could prove decisive.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Arkansas in their Sweet 16 matchup?
+
+Pred: (51.82%, 48.18%*)
+
+A: After analyzing both teams' performance data, I expect Arkansas has a meaningful chance of victory. The defensive metrics favor Arkansas, particularly in blocking and defensive rebounding. My confidence in this prediction is moderate given the teams' contrasting styles and strengths. Looking at seasonal trends, results appear skewed towards a close game where Arkansas's superior athleticism could be decisive. The Razorbacks' momentum from recent tournament wins and their ability to create turnovers adds weight to their chances. Texas Tech's offensive efficiency numbers suggest they may struggle against Arkansas's length and defensive pressure. I see notable uncertainty in the tail risks, particularly given Arkansas's ability to both dominate and struggle in key games. The tournament context and neutral site location further support a competitive matchup with meaningful upset potential.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Arkansas in their Sweet 16 matchup at the Chase Center?
+
+Pred: (58.45%*, 41.55%)
+
+A: Based on the comprehensive analysis of both teams' performance metrics and recent game history, I expect this to be a closely contested matchup with Texas Tech holding a moderate advantage. The Red Raiders show superior offensive efficiency metrics and have demonstrated more consistent performance throughout the season. Their defensive prowess, particularly in limiting opponents' shooting percentages, gives them an edge in what should be a lower-scoring game. While Arkansas has shown flashes of excellence, especially in their tournament run, they've been less consistent overall and their offensive numbers suggest they may struggle against Texas Tech's defensive scheme. I'm predicting with moderate certainty based on Texas Tech's stronger statistical profile across key metrics. The outcome distribution is slightly skewed toward Texas Tech given their higher adjusted efficiency margins and more reliable scoring patterns. Results are likely concentrated around a narrow range of game scenarios, though there remains some risk of extreme outcomes given the high-stakes tournament setting and Arkansas's demonstrated ability to pull off upsets.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will LOSE to Arkansas in their Sweet 16 matchup?
+
+Pred: (56.92%, 43.08%*)
+
+A: After analyzing both teams' performance metrics and season trajectories, I expect Arkansas to have a meaningful chance at victory. The data shows Arkansas has strong defensive capabilities, particularly in blocks where they excel compared to Texas Tech. Their offensive efficiency numbers are comparable, suggesting a competitive matchup. I'm seeing moderate uncertainty in this prediction due to Arkansas's inconsistent season performance but strong tournament showing so far. Results appear slightly skewed toward the higher probability range given Arkansas's demonstrated ability to upset higher-seeded teams in this tournament. Their superior athleticism and defensive disruption potential could prove decisive, though their relatively lower offensive consistency introduces some variability. Arkansas's tournament experience and recent momentum against strong opponents adds weight to their upset potential.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Arkansas in their Sweet 16 matchup?
+
+Pred: (58.47%*, 41.53%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and season trajectories, I expect this to be a competitive matchup with a moderate edge to Texas Tech. My confidence stems from Texas Tech's superior offensive efficiency (125.4 vs 114.1) and more consistent defensive performance throughout the season. The prediction is informed by Texas Tech's stronger bench depth and better minutes continuity, suggesting better late-game performance potential. Results are somewhat skewed toward Texas Tech given their more balanced scoring distribution and superior three-point shooting percentage. The outcome distribution shows moderate concentration around the mean prediction, reflecting the inherent volatility of tournament basketball. I've factored in Arkansas's strong tournament performance so far, but their lower offensive rebounding percentage and higher turnover rate suggest some vulnerability against Texas Tech's disciplined defense. The neutral court setting and similar tempo preferences between the teams (65.0 vs 69.4) suggest a game that will likely be decided by execution rather than style mismatches.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Arkansas in their Sweet 16 matchup?
+
+Pred: (56.22%, 43.78%*)
+
+A: Based on the comprehensive data analysis, I expect Arkansas to have a meaningful but not overwhelming chance of victory. My analysis indicates moderate certainty in the prediction, considering both teams' strong tournament performances so far. The defensive metrics particularly favor Arkansas, with their superior blocking statistics and slightly better adjusted defensive efficiency. The results are somewhat skewed toward a closer game scenario, with Arkansas showing better momentum coming into this matchup. Their recent victories against strong opponents and superior height advantage could be significant factors. The distribution of possible outcomes suggests a relatively concentrated range of scenarios, though there remains a notable chance of extreme outcomes given the high-stakes tournament setting.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Arkansas in their Sweet 16 matchup?
+
+Pred: (61.95%*, 38.05%)
+
+A: Based on the comprehensive analysis of both teams' performance metrics and recent game history, I expect this to be a competitive matchup with Texas Tech holding a meaningful advantage. The Red Raiders demonstrate superior offensive efficiency (125.4 vs 114.1) and stronger defensive metrics across key categories. The season-long data suggests Texas Tech has been more consistent, with notably better minutes continuity (39.1% vs 9.6%) and stronger player rotation patterns. Looking at the scoring distributions and tempo metrics, results are likely skewed slightly in Texas Tech's favor due to their more balanced offensive approach and better three-point shooting efficiency. The outcome distribution shows some concentration around my central estimate, though there is meaningful uncertainty given the high-stakes tournament context and Arkansas's demonstrated ability to pull off upsets. The Red Raiders' superior depth and consistent defensive performance throughout the season provides additional confidence in their chances to advance.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Arkansas in their Sweet 16 matchup?
+
+Pred: (57.31%, 42.69%*)
+
+A: Looking at the comprehensive data, I expect Arkansas has a meaningful chance of victory despite being the lower seed. The defensive metrics strongly favor Arkansas, particularly in blocks where they excel. The momentum indicators suggest Arkansas is peaking at the right time, with strong tournament performances so far. The teams have contrasting styles, with Texas Tech being more perimeter-oriented while Arkansas dominates inside. Results are likely skewed toward a close game given both teams' tournament experience and defensive capabilities. I predict with moderate certainty given the clash of styles and strengths. There is a heightened risk of extreme outcomes due to Arkansas's superior athleticism and defensive disruption potential, though their offensive inconsistency adds uncertainty. The clash between Texas Tech's efficient offense and Arkansas's stifling defense will be crucial.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win their Sweet 16 matchup against Arkansas in the NCAA Men's Basketball Championship West Region?
+
+Pred: (58.46%*, 41.54%)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and recent form, I expect a highly competitive matchup with Texas Tech holding a moderate advantage. The Red Raiders demonstrate superior offensive efficiency (125.4 vs 114.1) and more consistent defensive performance throughout the season. Their depth of scoring options and better ball movement suggests more reliable execution in crucial moments. The teams show contrasting styles, with Texas Tech's more methodical approach likely to control the tempo against Arkansas's faster pace. While Arkansas has shown impressive tournament resilience, their lower offensive consistency and weaker shooting percentages from beyond the arc create vulnerability. The Red Raiders' superior rebounding numbers and lower turnover rate suggest they can dictate the flow of play. However, Arkansas's defensive pressure and athleticism could create challenges, introducing some uncertainty into the outcome.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Arkansas in their Sweet 16 matchup?
+
+Pred: (56.81%, 43.19%*)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and tournament progress, I expect Arkansas has a meaningful chance of victory. The data suggests Arkansas's defensive efficiency and superior blocking ability could neutralize Texas Tech's offensive strengths. I predict with moderate certainty given both teams' recent tournament performances and their respective statistical profiles. Results are somewhat skewed toward a closer game scenario, considering Arkansas's proven ability to compete with higher-seeded teams. The outcome distribution reflects Arkansas's strong defensive metrics and tournament experience, though their offensive inconsistency adds uncertainty. Texas Tech's adjusted efficiency numbers are stronger overall, but Arkansas's defensive pressure and athleticism create legitimate upset potential. Momentum from Arkansas's previous tournament wins against Kansas and St. John's adds weight to their chances. The height advantage and superior blocking numbers for Arkansas could prove particularly impactful in this matchup.

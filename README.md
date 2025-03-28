@@ -802,6 +802,22 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>48.47%</td>
       <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>West</td>
+      <td>Arkansas (10)</td>
+      <td>Texas Tech (3)</td>
+      <td>34.57%/td>
+      <td>65.43%</td>
+      <td><a href="mens-bracket/picks/arizona-vs-duke.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>Texas Tech (3)</td>
+      <td>Arkansas (10)</td>
+      <td>56.93%</td>
+      <td>43.07%</td>
+      <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 
