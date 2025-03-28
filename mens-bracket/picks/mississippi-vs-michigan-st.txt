@@ -1,0 +1,91 @@
+(0.3452155501386111, 0.6547844498613888) with Beta(8.313489917624231, 15.768536266556044)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Ole Miss will win against Michigan State in their Sweet 16 matchup?
+
+Pred: (37.62%*, 62.38%)
+
+A: After analyzing both teams' performance metrics and tournament results, I expect this to be a competitive matchup slightly favoring Michigan State. Michigan State has shown superior efficiency on both ends of the floor, with particularly strong defensive metrics and better shooting percentages. Their tournament experience and deeper roster provide additional advantages. Results are likely skewed toward Michigan State due to their more consistent performance against quality opponents throughout the season. I predict with moderate certainty given both teams' recent strong performances in the tournament. The outcome distribution reflects some potential for an upset given Ole Miss's defensive prowess and their ability to create turnovers, but Michigan State's balanced attack and superior rebounding capabilities suggest they have multiple paths to victory. Their results are concentrated around a moderate probability range rather than suggesting extreme outcomes in either direction.
+
+[Negative]
+
+Q: What is the probability that Ole Miss will lose to Michigan State?
+
+Pred: (37.77%, 62.23%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament results, I expect Michigan State to be favored in this matchup. Michigan State has demonstrated superior efficiency ratings and more consistent performance against quality opponents throughout the season. My confidence is particularly strengthened by Michigan State's strong defensive metrics and tournament experience. The outcome distribution is somewhat skewed towards a Michigan State victory, given their demonstrated ability to control tempo and superior shooting percentages. Their depth and experience advantage suggests they're well-positioned to handle tournament pressure. However, Ole Miss's impressive guard play and ability to force turnovers introduces some uncertainty into the prediction. The volatility in tournament games and Ole Miss's recent strong performances means extreme outcomes in either direction remain possible, though I believe the most likely scenario favors Michigan State.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Ole Miss will win against Michigan State in their Sweet 16 matchup?
+
+Pred: (37.19%*, 62.81%)
+
+A: After analyzing both teams' performance metrics and tournament results, I expect a competitive matchup with Michigan State holding a meaningful advantage. The Spartans have demonstrated superior efficiency on both ends of the floor, with particularly strong defensive metrics and better shooting percentages. Their tournament experience and depth of talent suggests better preparedness for this stage. While Ole Miss has shown impressive resilience in reaching the Sweet 16, including their strong showing against North Carolina, their statistical profile indicates they may struggle against Michigan State's defensive pressure and offensive execution. The outcomes are somewhat skewed toward Michigan State given their stronger regular season resume and more balanced scoring attack. Results are likely to be concentrated around a Michigan State victory, though there remains a meaningful chance of an upset given Ole Miss's demonstrated ability to compete with top teams. Tournament basketball often produces surprising results, but the fundamental metrics strongly favor Michigan State in this matchup.
+
+[Negative]
+
+Q: What is the probability that Ole Miss will lose to Michigan State?
+
+Pred: (35.43%, 64.57%*)
+
+A: Based on the comprehensive data analysis, I expect Michigan State has significant advantages that make an Ole Miss loss quite probable. Michigan State's superior adjusted efficiency metrics and stronger schedule components suggest they are the more battle-tested team. Their defensive metrics are particularly impressive, with better block percentages and steal rates than Ole Miss. The distribution of possible outcomes is skewed toward a Michigan State victory, driven by their more experienced roster and better performance against quality opponents throughout the season. Their offensive execution appears more consistent, with better shooting percentages and lower turnover rates. While there is some uncertainty due to the tournament setting, results are likely to concentrate around a Michigan State win given their tactical advantages and superior depth. The risk of an extreme upset is relatively low given Michigan State's demonstrated ability to control game tempo and their excellent defensive discipline.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Ole Miss will win against Michigan State in their Sweet 16 matchup?
+
+Pred: (31.55%*, 68.45%)
+
+A: After analyzing both teams' performance data and tournament results, I expect Michigan State to have a significant advantage in this matchup. Michigan State has demonstrated superior efficiency metrics and more consistent performance against high-level competition throughout the season. The Spartans' balanced offensive approach and stronger defensive metrics suggest they match up well against Ole Miss's style of play. Their tournament experience and deeper rotation provide additional advantages. While Ole Miss has shown impressive resilience in reaching the Sweet 16, their statistical profile indicates they may struggle against Michigan State's defensive pressure and offensive execution. Results are notably skewed toward Michigan State, though there remains meaningful uncertainty given the unpredictable nature of tournament basketball. The Spartans' stronger fundamentals and better season-long performance metrics suggest the outcomes will be concentrated around a comfortable Michigan State victory, though there remains some possibility of an upset given tournament dynamics.
+
+[Negative]
+
+Q: What is the probability that Ole Miss will LOSE to Michigan State?
+
+Pred: (35.43%, 64.57%*)
+
+A: Based on the comprehensive analysis of both teams' performance data and tournament results, I expect Michigan State to have a strong advantage in this matchup. Looking at efficiency metrics, Michigan State demonstrates superior defensive capabilities and more consistent shooting percentages. Their tournament experience and depth of talent suggests a significant edge. While Ole Miss has shown impressive resilience, their statistical profile indicates they may struggle against Michigan State's disciplined approach. I have high certainty in this prediction given Michigan State's demonstrated ability to control tempo and their superior defensive metrics. The outcomes are somewhat skewed toward a stronger probability of Michigan State victory, particularly considering their impressive regular season wins against top competition. Their balanced scoring attack and superior rebounding numbers suggest they match up well against Ole Miss's strengths.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Ole Miss will win against Michigan State in their Sweet 16 matchup?
+
+Pred: (30.46%*, 69.54%)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and tournament results, I expect Michigan State to have a significant advantage in this matchup. The Spartans have demonstrated superior efficiency on both ends of the floor, with particularly strong defensive metrics and better shooting percentages. Their tournament performance has been impressive, showing strong momentum and execution. While Ole Miss has made an impressive run, I predict with high certainty that Michigan State's experience and statistical advantages will be decisive factors. The outcomes are likely skewed toward Michigan State's favor, particularly given their stronger schedule strength and better adjusted efficiency margins. Results are likely concentrated around a clear Michigan State advantage, though there remains some possibility of an upset given tournament dynamics and Ole Miss's recent strong play. The difference in personnel experience and depth also favors Michigan State substantially.
+
+[Negative]
+
+Q: What is the probability that Ole Miss will lose to Michigan State?
+
+Pred: (32.25%, 67.75%*)
+
+A: After analyzing both teams' performance data and tournament results, I expect Michigan State has several key advantages that make them likely to prevail. The Spartans demonstrate superior offensive efficiency and defensive metrics, particularly in their shot-blocking and perimeter defense. Their tournament experience and deeper rotation of skilled players suggests better sustainability through a challenging match. Results are centered around a strong probability of a Michigan State victory, though with some uncertainty due to Ole Miss's demonstrated ability to create turnovers and their strong guard play. The distribution is somewhat skewed toward higher probabilities of a Michigan State win, reflecting their overall statistical advantages and tournament performance. However, there remains a meaningful chance of an Ole Miss upset given their defensive pressure capabilities and ability to force turnovers, which creates some fat-tail risk in the probability distribution.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Ole Miss will win against Michigan State in their Sweet 16 matchup of the Men's Basketball Championship South Region?
+
+Pred: (38.14%*, 61.86%)
+
+A: After analyzing both teams' performance data and tournament results, I expect Michigan State to have a significant advantage in this matchup. The Spartans have demonstrated superior efficiency metrics throughout the season, with a notably better adjusted efficiency rating of 118.8 compared to Ole Miss's 118.8 (though Ole Miss has been surprisingly competitive). Michigan State's defense has been particularly strong, and they've shown excellent tournament form with convincing wins against higher-seeded opponents. Their experience level and coaching depth provide additional intangible advantages. However, Ole Miss has shown remarkable resilience in the tournament and their guard play has been exceptional, suggesting some potential for an upset. The game being played at a neutral site somewhat reduces home court advantages. Results are likely skewed toward Michigan State given their tournament experience and depth, though there is a meaningful chance of an Ole Miss victory given their recent strong performances. The outcome distribution suggests a moderate concentration around the mean prediction, with some potential for surprising results given tournament dynamics and the proven ability of both teams to perform under pressure.
+
+[Negative]
+
+Q: What is the probability that Ole Miss will lose to Michigan State in their Sweet 16 matchup?
+
+Pred: (35.79%, 64.21%*)
+
+A: After analyzing both teams' performance data and tournament results, Michigan State appears to have several key advantages. They have superior offensive efficiency (112.8 vs 107.8) and have faced stronger competition throughout the season. The Spartans' defensive metrics are particularly impressive, with better block percentages and steal rates. Their tournament experience and depth are significant factors, with more balanced scoring distribution across their roster. While Ole Miss has shown resilience in reaching the Sweet 16, the step up in competition level poses a significant challenge. The distribution of possible outcomes skews toward Michigan State's favor, though there remains meaningful uncertainty given tournament dynamics. The core statistics suggest a relatively concentrated probability mass around the expected outcome, with limited chance of extreme variance in either direction. The venue being neutral reduces any potential home court advantage factors.

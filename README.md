@@ -818,6 +818,22 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>43.07%</td>
       <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>South</td>
+      <td>Ole Miss (6)</td>
+      <td>Michigan St.(2)</td>
+      <td>34.52%</td>
+      <td>65.48%/td>
+      <td><a href="mens-bracket/picks/mississippi-vs-michigan-st.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>Michigan St.(2)</td>
+      <td>Ole Miss (6)</td>
+      <td>50.25%</td>
+      <td>49.75%</td>
+      <td><a href="mens-bracket/picks/michigan-st-vs-mississippi.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 
