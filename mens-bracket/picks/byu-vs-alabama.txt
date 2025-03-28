@@ -1,0 +1,91 @@
+(0.3323272797324037, 0.6676727202675963) with Beta(7.829540073971677, 15.730187193305845)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that BYU (6) will win their NCAA tournament game against Alabama (2)?
+
+Pred: (37.51%*, 62.49%)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and recent tournament results, I expect this to be a competitive matchup with Alabama holding a notable advantage. The Crimson Tide's superior offensive efficiency (119.7 vs 114.9) and faster tempo suggest they will control the pace of play. Their recent tournament performances have been particularly impressive, with convincing wins against quality opponents. While BYU has shown resilience throughout the season, I predict with moderate certainty that Alabama's athletic advantages and stronger schedule strength will prove decisive. The outcomes are somewhat skewed toward Alabama's favor, particularly given their home-region advantage playing in Newark. Results are likely to be concentrated around a clear Alabama victory, though BYU's three-point shooting prowess (38.9%) provides them a pathway to potential upset scenarios. The risk of extreme outcomes is relatively low, as both teams have demonstrated consistent performance levels throughout the season.
+
+[Negative]
+
+Q: What is the probability that BYU will lose to Alabama in their Sweet 16 matchup?
+
+Pred: (32.16%, 67.84%*)
+
+A: Based on comprehensive analysis of both teams' season performance, I expect Alabama to have a significant advantage in this matchup. The Crimson Tide's offensive efficiency metrics are notably stronger, with a higher adjusted tempo and more aggressive scoring approach. Looking at conference-only statistics, Alabama's superior offensive rating and defensive capabilities suggest strong favorability. Their schedule strength and tournament performance thus far demonstrate resilience against high-level competition. The pace differential between these teams particularly favors Alabama, as BYU may struggle to contain their transition game. My confidence in this prediction is bolstered by Alabama's superior athleticism and depth. The outcomes are somewhat skewed toward a higher probability of an Alabama victory, with particular concentration around strong winning scenarios for them. The risk of extreme outcomes is relatively low given both teams' consistent performance patterns throughout the season.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that BYU (6) will win against Alabama (2) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (37.50%*, 62.50%)
+
+A: After analyzing both teams' performance data and season trajectories, I expect a competitive matchup but one that favors Alabama. The Crimson Tide's superior offensive efficiency and faster tempo could pose significant challenges for BYU. The data suggests the game will likely be dictated by Alabama's pace, with their strong three-point shooting and ability to force turnovers being key factors. My analysis indicates moderate uncertainty in the outcome, though results are somewhat skewed toward an Alabama victory. BYU's strong perimeter shooting and rebounding could keep them competitive, but Alabama's higher ceiling on offense and stronger overall resume against quality opponents suggests they have multiple paths to victory. The neutral court setting slightly reduces home court advantages, but Alabama's tournament experience and deeper rotation provide additional edges. I predict with moderate certainty that Alabama's advantages in pace and offensive firepower will prove decisive.
+
+[Negative]
+
+Q: What is the probability that BYU will lose to Alabama in their Sweet 16 matchup?
+
+Pred: (31.75%, 68.25%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament results, I expect Alabama to have a significant advantage in this matchup. Their superior offensive efficiency (119.7 vs 114.9) and faster tempo suggest they'll control the pace of play. Looking at schedules, Alabama has proven themselves against tougher competition in the SEC, while BYU has shown more vulnerability in recent games. The outcomes are somewhat skewed toward a higher probability of BYU losing, particularly given Alabama's strong guard play and transition offense. My predictions show high concentration around the expected outcome, reflecting Alabama's consistent performance against similar competition. The Crimson Tide's defensive metrics and rebounding advantages further support their favorable position. However, there remains some uncertainty due to tournament dynamics and BYU's three-point shooting capability.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that BYU (6) will win against Alabama (2) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (37.51%*, 62.49%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent tournament results, I expect this to be a competitive matchup with Alabama holding a meaningful advantage. Looking at offensive efficiency, Alabama has shown superior firepower, particularly in transition with their faster tempo and more aggressive style. The Crimson Tide's strong regular season performance against high-caliber SEC competition provides a solid foundation for my projection. I predict with moderate certainty given both teams' demonstrated tournament resilience, but outcomes are somewhat skewed toward Alabama given their superior athleticism and depth. Their higher defensive rating and rebounding advantages should prove particularly impactful. Results are likely to be concentrated around a modest Alabama victory, though BYU's three-point shooting prowess (38.9%) introduces some variance that could swing the outcome in their favor. The contrasting styles - BYU's methodical approach versus Alabama's up-tempo game - creates interesting matchup dynamics that add uncertainty to the prediction.
+
+[Negative]
+
+Q: What is the probability that BYU will lose to Alabama in their Sweet 16 matchup?
+
+Pred: (31.75%, 68.25%*)
+
+A: After analyzing both teams' performance data, I expect Alabama to have a strong advantage in this matchup. The Crimson Tide's offensive efficiency and tempo metrics are notably superior, with particularly strong results in conference play. My certainty in this prediction is relatively high due to Alabama's consistent performance against quality opponents and their impressive tournament run thus far. The outcome distribution is somewhat skewed toward a higher probability of BYU losing, given Alabama's superior athleticism and depth. Alabama's higher adjusted efficiency margin and stronger strength of schedule suggest they match up well against BYU's style of play. The results are likely to be concentrated around a clear Alabama advantage, though there remains some possibility of an upset given BYU's three-point shooting capability. Looking at pace factors and defensive metrics, Alabama's significantly faster tempo could pose problems for BYU's more methodical approach.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that BYU (6) will win against Alabama (2) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (36.75%*, 63.25%)
+
+A: After analyzing both teams' performance data and tournament results, I expect a competitive matchup with Alabama holding a meaningful advantage. My analysis suggests a notably lower probability for BYU to advance, primarily due to Alabama's superior offensive efficiency and stronger regular season performance against quality opponents. The Crimson Tide's higher tempo and more aggressive style creates challenges for BYU's defensive approach. The outcome distribution shows some right skew for BYU's win probability, reflecting the possibility of a hot shooting performance enabling an upset. However, Alabama's consistency in key metrics and stronger tournament showing so far suggests their win probability is likely concentrated around the higher end. Their superior athleticism and depth provide multiple paths to victory, though there remains a meaningful chance of BYU pulling the upset through excellent execution of their methodical offensive strategy.
+
+[Negative]
+
+Q: What is the probability that BYU will lose to Alabama in their Sweet 16 matchup?
+
+Pred: (31.76%, 68.24%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics, I expect Alabama to have a significant advantage in this matchup. The Crimson Tide's superior offensive efficiency (119.7 vs 114.9) and faster tempo suggest they'll create more scoring opportunities. Alabama's performance against stronger SEC competition and their impressive tournament run demonstrate their capabilities. Their defensive metrics are slightly better, and they have shown more consistency throughout the season. While BYU has had a strong season, their relative inexperience at this stage of the tournament could be telling. The outcome distribution is slightly skewed toward Alabama's favor, with particular concentration around a moderate probability of BYU defeat. There's some possibility of extreme outcomes given the variance in three-point shooting from both teams, but the core probability mass suggests a relatively predictable result favoring Alabama.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that BYU (6) will win against Alabama (2) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (31.75%*, 68.25%)
+
+A: After analyzing both teams' performance metrics and recent tournament results, I expect this to be a competitive matchup with Alabama holding a meaningful advantage. Both teams have shown strong offensive capabilities, but Alabama's higher tempo and superior defensive metrics suggest they have more paths to victory. The Crimson Tide's stronger regular season schedule and more impressive tournament victories provide additional confidence in their chances. Their ability to score from multiple levels and create turnovers could pose significant challenges for BYU. While BYU's three-point shooting capability could keep them competitive, the overall statistical profile suggests a moderate to strong edge for Alabama. The neutral court setting slightly reduces home court advantages, but Alabama's athleticism and depth should prove decisive in most scenarios. There is some risk of an upset if BYU gets hot from three-point range, but the distribution of likely outcomes favors Alabama significantly.
+
+[Negative]
+
+Q: What is the probability that BYU will lose to Alabama in their Sweet 16 matchup?
+
+Pred: (32.16%, 67.84%*)
+
+A: Based on the comprehensive analysis of both teams' performance data, I expect Alabama to have a strong advantage in this matchup. The Crimson Tide's superior offensive efficiency (119.7 vs 114.9) and faster tempo suggest they can control the game's pace. Alabama's tournament performance has been particularly impressive, with convincing wins in their first two games. Their defensive metrics are notably stronger, and their ability to force turnovers could be decisive. The outcome distribution is somewhat skewed toward an Alabama victory, with relatively concentrated probabilities around my central expectation. The Crimson Tide's strength of schedule and conference performance provides additional confidence in their ability to advance. However, BYU's three-point shooting prowess (38.9%) does introduce some uncertainty and potential for an upset scenario, though I believe this is a lower probability outcome.

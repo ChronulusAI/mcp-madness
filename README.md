@@ -740,6 +740,87 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+### Sweet 16- Day 1 (Updated with data on games through March 26)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>East</td>
+      <td>BYU (6)</td>
+      <td>Alabama (1)</td>
+      <td>33.23%</td>
+      <td>66.77%</td>
+      <td><a href="mens-bracket/picks/byu-vs-alabama.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>East</td>
+      <td>Alabama (1)</td>
+      <td>BYU (6)</td>
+      <td>67.85%</td>
+      <td>32.15%</td>
+      <td><a href="mens-bracket/picks/alabama-vs-byu.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>Maryland (4)</td>
+      <td>Florida (1)</td>
+      <td>31.11%/td>
+      <td>68.89%</td>
+      <td><a href="mens-bracket/picks/maryland-vs-florida.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>Florida (1)</td>
+      <td>Maryland (4)</td>
+      <td>59.44%</td>
+      <td>40.56%</td>
+      <td><a href="mens-bracket/picks/florida-vs-maryland.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>East</td>
+      <td>Arizona (4)</td>
+      <td>Duke (1)</td>
+      <td>41.15%/td>
+      <td>58.85%</td>
+      <td><a href="mens-bracket/picks/arizona-vs-duke.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>East</td>
+      <td>Duke (1)</td>
+      <td>Arizona (4)</td>
+      <td>51.53%</td>
+      <td>48.47%</td>
+      <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>Arkansas (10)</td>
+      <td>Texas Tech (3)</td>
+      <td>34.57%/td>
+      <td>65.43%</td>
+      <td><a href="mens-bracket/picks/arizona-vs-duke.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>West</td>
+      <td>Texas Tech (3)</td>
+      <td>Arkansas (10)</td>
+      <td>56.93%</td>
+      <td>43.07%</td>
+      <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |

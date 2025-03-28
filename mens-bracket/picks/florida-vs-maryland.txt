@@ -1,0 +1,91 @@
+(0.5944038526715211, 0.40559614732847893) with Beta(17.964001718811435, 12.257877964627774)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Florida (1) will win against Maryland (4) in their Sweet 16 matchup at the Chase Center?
+
+Pred: (63.67%*, 36.33%)
+
+A: After analyzing both teams' performance metrics and recent tournament results, I expect a competitive matchup that favors Florida. The Gators have demonstrated superior offensive efficiency (118.3 vs 109.8) and stronger defensive metrics throughout the season. Their track record shows consistent performance against high-caliber opponents, with impressive wins in their tournament run. The data suggests a moderately concentrated probability distribution slightly skewed toward Florida's victory, though not overwhelmingly so given Maryland's defensive prowess and tournament experience. Results are likely to cluster around my central expectation, with some possibility of deviation due to the high-stakes nature of tournament play. Tournament dynamics and neutral court conditions have been factored into these predictions, though Florida's superior depth and statistical advantages across key metrics provide them with a meaningful edge.
+
+[Negative]
+
+Q: What is the probability that Florida (1) will lose to Maryland (4) in their Sweet 16 matchup?
+
+Pred: (58.44%, 41.56%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament results, I expect Florida to face significant challenges against Maryland's strong defensive presence. The data shows Maryland has been particularly effective in limiting opponent shooting efficiency, which could disrupt Florida's high-powered offense. My confidence in this prediction is moderately high given both teams' consistent performance patterns throughout the season. The outcome distribution is somewhat skewed toward Maryland's favor, considering their impressive wins against quality opponents and strong defensive metrics. Maryland's superior rebounding numbers and lower turnover rate suggest they can control game tempo effectively. The teams' respective tournament performances so far indicate Maryland has been playing with increasing momentum, while Florida has shown occasional vulnerability despite their wins. Taking into account venue factors and rest days, I anticipate a closely contested game with a moderate chance of Maryland emerging victorious.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Florida (1) will win against Maryland (4) in their Sweet 16 matchup?
+
+Pred: (63.45%*, 36.55%)
+
+A: Based on the comprehensive analysis of both teams' performance metrics and recent tournament results, I expect a competitive matchup that favors Florida. The Gators demonstrate superior offensive efficiency (118.3 vs 109.8) and have shown more consistency throughout the season. Their strong guard play led by Walter Clayton Jr. and balanced scoring attack gives them a significant advantage. Florida's defense has been notably strong, and their ability to generate turnovers while protecting the ball suggests they can control game tempo. The data suggests a moderate degree of certainty in this prediction, though tournament games often bring additional variance. Looking at momentum, Florida enters with strong recent performances, though Maryland has shown resilience in tight games. The distribution of possible outcomes shows a slight rightward skew, reflecting Florida's higher ceiling as a 1-seed. Results are likely to be concentrated around the median prediction, with relatively thin tails given both teams' consistent performance patterns throughout the season.
+
+[Negative]
+
+Q: What is the probability that Florida (1) will lose to Maryland (4) in their Sweet 16 matchup?
+
+Pred: (61.93%, 38.07%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament results, I expect Maryland has a meaningful chance of victory. The Terrapins' strong defensive efficiency (99.8) matches up well against Florida's offensive approach. Looking at conference-only statistics, Maryland's adaptive playing style and experienced roster suggests reasonable upset potential. Their tournament performance so far has demonstrated composure under pressure. Results are somewhat skewed toward a Florida victory given their overall statistical advantages, but Maryland's defensive prowess and efficient scoring create legitimate paths to victory. The outcome uncertainty is heightened by Maryland's demonstrated ability to compete with top teams this season. Tournament experience and coaching adjustments will likely play crucial roles in what projects as a competitive contest.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Florida (1) will win against Maryland (4) in their Sweet 16 matchup at the Chase Center?
+
+Pred: (64.25%*, 35.75%)
+
+A: After analyzing both teams' performance metrics and recent tournament results, I expect a competitive matchup but with Florida holding meaningful advantages. The Gators have demonstrated superior offensive efficiency (118.3 vs 109.8) and stronger defensive metrics throughout the season. Their tempo advantage and more efficient shooting percentages suggest they can control the game's pace. The Gators' deeper rotation and stronger minutes continuity (53.9% vs 26.0%) indicates better stamina and adaptability. I predict with moderate certainty given both teams' strong tournament performances thus far. Results are somewhat skewed toward Florida given their superior statistical profile and consistency against quality opponents. The presence of elite players like Walter Clayton Jr. for Florida provides an additional edge, though Maryland's Jahmir Young could be an equalizing factor. The neutral court location slightly reduces home advantage effects, but Florida's overall statistical advantages remain significant.
+
+[Negative]
+
+Q: What is the probability that Florida (1) will lose to Maryland (4) in their Sweet 16 matchup?
+
+Pred: (58.02%, 41.98%*)
+
+A: Based on comprehensive analysis of both teams' performances, I expect Florida to face significant challenges. Maryland's defensive efficiency metrics are particularly impressive, showing strong ability to disrupt offensive flow. Their statistical profile suggests they match up well against Florida's offensive strengths, particularly in perimeter defense. The Terrapins have demonstrated remarkable consistency through their schedule, with notable wins against quality opponents. Results are somewhat skewed toward a more competitive game due to Maryland's experienced roster and strong defensive fundamentals. While both teams have impressive offensive capabilities, Maryland's defensive prowess and tournament experience make them a serious threat. I have moderate certainty in this prediction, considering the volatile nature of tournament basketball and both teams' demonstrated ability to perform under pressure. Tournament history suggests that matchups between these seed lines often produce closer games than expected.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Florida (1) will win against Maryland (4) in their Sweet 16 matchup at the Chase Center?
+
+Pred: (63.98%*, 36.02%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent tournament results, I expect Florida to have a meaningful advantage in this matchup. Florida's adjusted efficiency metrics are notably stronger, particularly on offense where they show superior shooting percentages and better ball movement. Their tempo advantage and more consistent scoring patterns throughout the season suggest they can control the game's pace. The Gators have demonstrated remarkable consistency in their tournament run, while Maryland has shown some vulnerability despite their wins. I predict with moderate certainty given the stakes of a Sweet 16 matchup and the inherent volatility of tournament basketball. Results are somewhat skewed toward Florida's favor, reflecting their slight edge in key statistical categories and overall team composition. While there is a clear favorite, the tournament setting and Maryland's defensive capabilities create enough uncertainty to suggest some risk of upset potential, though results are likely concentrated around a Florida victory scenario. The venue being neutral eliminates any home court advantage considerations.
+
+[Negative]
+
+Q: What is the probability that Florida (1) will lose to Maryland (4) in their Sweet 16 matchup?
+
+Pred: (47.94%, 52.06%*)
+
+A: Based on the comprehensive analysis of both teams' performance data, I expect Florida faces significant challenges despite their strong season. The defensive metrics show Maryland has better rim protection and stealing capability, which could disrupt Florida's offensive flow. My analysis suggests moderate uncertainty in the outcome, with results centered slightly above even odds for a Florida loss. The data indicates a slight right skew in potential outcomes, meaning while Florida's loss is relatively likely, there's a broader range of scenarios where they could lose by varying margins. Maryland's strong defensive efficiency rating and their ability to control tempo could particularly challenge Florida's preferred pace. Their performance against top teams this season and tournament experience adds weight to their upset potential. The matchup statistics suggest Maryland matches up particularly well in several key areas that could neutralize Florida's strengths.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Florida (1) will win against Maryland (4) in their Sweet 16 matchup?
+
+Pred: (63.67%*, 36.33%)
+
+A: Based on the comprehensive analysis of both teams' performance metrics and recent tournament results, I expect this to be a competitive matchup that favors Florida. The Gators have demonstrated superior offensive efficiency (118.3 vs 109.8) and have been particularly strong in their tournament run. Their tempo advantage and better shooting percentages suggest they can control the game's pace. Looking at the defensive metrics, Florida holds a slight edge, though Maryland has shown resilience against strong opponents. The results are likely skewed toward Florida due to their consistent performance against quality opponents and superior rebounding numbers. While both teams have talented rosters, Florida's Walter Clayton Jr. and Zyon Pullin have been exceptional in clutch situations. Given the neutral court and the stakes involved, I expect moderate variability in potential outcomes, though there is a relatively low risk of extreme results either way. The minimal difference in strength of schedule suggests both teams are well-tested, but Florida's superior depth and offensive versatility give them a meaningful advantage.
+
+[Negative]
+
+Q: What is the probability that Florida (1) will lose to Maryland (4) in their Sweet 16 matchup?
+
+Pred: (61.58%, 38.42%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament results, I expect a challenging matchup with notable uncertainty. Florida has shown exceptional offensive efficiency (118.3) but Maryland's defensive prowess (99.8) could pose significant problems. The probability distribution reflects considerable uncertainty given the high stakes of tournament play and both teams' strong performances. Results are somewhat skewed toward a Florida victory, meaning the loss probability has a longer tail toward higher values. Maryland's experience against strong Big Ten competition and their impressive defensive metrics suggest they could create problems for Florida's offense. Tournament variables and the neutral site location add complexity to the prediction, though Florida's superior offensive statistics and overall consistency throughout the season slightly reduce the likelihood of an upset loss.
