@@ -1,0 +1,91 @@
+(0.4765041108968546, 0.5234958891031454) with Beta(14.965968392735178, 16.441878990925176)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee (2) will win against Kentucky (3) in their Sweet 16 matchup at Lucas Oil Stadium?
+
+Pred: (57.28%*, 42.72%)
+
+A: After analyzing both teams' performance metrics and recent trajectories, this projects to be a highly competitive matchup between two strong SEC teams. Tennessee has demonstrated superior defensive efficiency and rebounding, while Kentucky brings a more potent offense to the table. Based on their regular season meetings and current form, I expect a slight edge for Tennessee. The defensive prowess of Tennessee should be particularly impactful in a tournament setting, though Kentucky's offensive firepower keeps this prediction from being too certain. Their contrasting styles create some volatility in potential outcomes, with Tennessee's defense-first approach suggesting a slightly more consistent performance floor. The neutral court setting somewhat diminishes Kentucky's typical home court advantage, though both teams have shown they can perform well in tournament environments. Results are moderately skewed toward Tennessee given their defensive consistency and tournament experience, but Kentucky's elite scoring potential means there's a meaningful chance of them taking control if their offense clicks.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will lose to Kentucky (3) in their Sweet 16 matchup?
+
+Pred: (45.59%, 54.41%*)
+
+A: Looking at the comprehensive data, I expect Tennessee faces significant challenges despite their strong season. Kentucky's offensive efficiency metrics are particularly impressive, with better shooting percentages and a more dynamic scoring approach. The historical matchup from February shows Kentucky's capability to win against Tennessee, even though Tennessee won their most recent encounter. The teams' tournament performances so far demonstrate Kentucky's offensive potency, though Tennessee has shown defensive resilience. The statistical profile suggests results could be somewhat skewed toward a Kentucky victory, given their superior offensive metrics and tournament momentum. Their adjusted efficiency margins indicate a tightly contested game, but Kentucky's tempo advantage could prove decisive. The variance in possible outcomes is relatively narrow, suggesting a fairly predictable range of game flows, though there remains a meaningful chance of extreme scenarios given both teams' explosive offensive potential.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee will win against Kentucky in their Sweet 16 matchup at Lucas Oil Stadium?
+
+Pred: (54.19%*, 45.81%)
+
+A: After analyzing both teams' performance data and recent matchups, I expect a highly competitive game between these familiar SEC rivals. Based on Tennessee's superior defensive efficiency (101.8 vs 112.7) and their strong adjusted offensive efficiency (120.6), they hold a slight edge. The teams have met twice this season, splitting the results, though Tennessee's recent form has been more consistent. Their tempo differential suggests Tennessee may be able to control the pace of the game. The outcome distribution is slightly skewed toward Tennessee due to their defensive advantages and superior rebounding metrics. However, Kentucky's high-powered offense and excellent free throw shooting keep this matchup very close. There is moderate uncertainty in this prediction due to the tournament setting and the teams' previous close encounters. The risk of extreme outcomes is relatively low given both teams' consistent performance levels and familiarity with each other.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will lose to Kentucky (3) in their Sweet 16 matchup?
+
+Pred: (43.65%, 56.35%*)
+
+A: After analyzing both teams' performance data and recent tournament results, I expect Kentucky has a meaningful chance of victory here. The matchup features two strong offensive teams, but Kentucky's superior offensive efficiency (123.8 vs 120.6) and better defensive numbers suggest they match up well. Kentucky's strong interior presence with Amari Williams and improved perimeter shooting gives them multiple ways to attack. Historical data from their previous matchup this season, where Kentucky won at Tennessee, adds weight to their chances. I'm particularly confident about Kentucky's ability to control the pace and exploit Tennessee's occasional defensive lapses. The tournament environment and neutral court somewhat level the playing field, though Tennessee's deeper rotation could provide some advantage in a close game. The distribution of possible outcomes shows a slight lean toward Kentucky's favor, with particular risk of Tennessee struggling if Kentucky can establish their preferred tempo early.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee (2) will win against Kentucky (3) in their Sweet 16 matchup at Lucas Oil Stadium?
+
+Pred: (56.41%*, 43.59%)
+
+A: After analyzing both teams' performance data and recent results, I expect a closely contested game with a slight edge to Tennessee. The Volunteers have shown superior defensive efficiency and have been particularly strong in forcing turnovers. Their adjusted efficiency metrics suggest they match up well against Kentucky's style of play. I predict with moderate certainty due to both teams' proven ability to compete at a high level. Results are somewhat skewed toward Tennessee given their defensive advantages and slightly better overall statistical profile. Looking at the tournament performances so far, both teams have shown strong form, but Tennessee's balanced scoring attack and defensive pressure system appears more sustainable. The matchup features two teams very familiar with each other from SEC play, which tends to compress the probability distribution and reduce the likelihood of extreme outcomes.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will lose to Kentucky (3) in their Sweet 16 matchup?
+
+Pred: (41.74%, 58.26%*)
+
+A: After analyzing both teams' performances, I expect Kentucky has a strong chance of defeating Tennessee. Kentucky's offensive efficiency metrics are particularly impressive, with better shooting percentages and more consistent scoring. The Wildcats have shown remarkable resilience in their tournament run, demonstrating superior offensive rebounding and transition play. The data suggests outcomes are slightly skewed toward a Kentucky victory, given their deeper bench and more balanced scoring attack. Their defensive metrics, while not dominant, have been steadily improving. The matchup history between these teams this season adds weight to Kentucky's chances, as they've already proven they can handle Tennessee's defensive pressure. Results are likely to be concentrated around a moderate-to-high probability of a Tennessee loss, with the possibility of a decisive Kentucky victory being more likely than a close defeat.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee (2) will win against Kentucky (3) in their Sweet 16 matchup at Lucas Oil Stadium?
+
+Pred: (57.51%*, 42.49%)
+
+A: After analyzing both teams' full season performance data and recent tournament results, I expect a highly competitive matchup between these strong SEC rivals. My analysis shows Tennessee has demonstrated superior defensive efficiency and better offensive consistency throughout the season. Both teams are playing well in the tournament, but Tennessee's balanced scoring attack and defensive prowess gives them a slight edge. The matchup dynamics suggest a close game with Tennessee's defensive pressure potentially being the difference maker. Results are somewhat skewed toward Tennessee given their stronger overall statistical profile and performance against common opponents. While there is moderate uncertainty given the stakes and rivalry nature of this game, the outcomes are likely to be concentrated around my central prediction rather than showing extreme variance. Kentucky's offensive firepower means they certainly could win, but Tennessee's defensive metrics and recent form make them the modest favorite.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will lose to Kentucky (3) in their Sweet 16 matchup?
+
+Pred: (43.17%, 56.83%*)
+
+A: Based on the comprehensive analysis of both teams' performance data and recent trajectories, this shapes up to be a highly competitive matchup. Kentucky's offensive efficiency metrics are particularly impressive, showing strong shooting percentages and effective ball movement. Tennessee has shown some vulnerability in recent games, especially in their shooting consistency. I expect Kentucky's superior offensive rebounding and transition game to create significant challenges for Tennessee. The historical matchup data this season, including Kentucky's win at Tennessee, suggests they match up well. My analysis indicates a moderate certainty in the outcome, with the distribution showing a slight right skew, reflecting some potential for Kentucky to control the game through their offensive firepower. The concentrated probability mass around the mean reflects the consistent level of play both teams have demonstrated throughout the season.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee (2) will win against Kentucky (3) in their Sweet 16 matchup at Lucas Oil Stadium?
+
+Pred: (54.17%*, 45.83%)
+
+A: After analyzing both teams' performance data and season trajectories, I expect a highly competitive matchup between these SEC rivals. Looking at their adjusted efficiency metrics, Tennessee shows slightly stronger defensive numbers but Kentucky has demonstrated superior offensive capabilities. Their previous meetings this season were split, with each team winning on their home court, suggesting relatively even strength. The neutral court setting slightly favors Tennessee due to their more consistent defensive performance and better turnover margin. However, Kentucky's improved late-season form and superior offensive rebounding create meaningful upset potential. I'm seeing a slight edge for Tennessee but with considerable uncertainty due to the teams' familiarity with each other and Kentucky's offensive firepower. The outcome distribution shows a slight rightward skew reflecting Tennessee's defensive advantage, though there remains a substantial chance of Kentucky prevailing if they can control the pace and dominate the glass.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will lose to Kentucky (3) in their Sweet 16 matchup?
+
+Pred: (41.86%, 58.14%*)
+
+A: After analyzing both teams' seasons, I expect Kentucky has good chances to hand Tennessee a loss. The Wildcats have shown impressive offensive efficiency and have won both their tournament games convincingly. Tennessee has demonstrated vulnerabilities, particularly in their recent losses and closer games. Kentucky's superior offensive rebounding and interior presence through Amari Williams creates matchup problems for Tennessee. The variance in my prediction reflects the competitive nature of both teams and their previous meeting this season. The distribution is slightly skewed toward a Kentucky victory given their tournament momentum and offensive firepower. Recent performance trends suggest Kentucky is peaking at the right time, while Tennessee has shown some inconsistency in their offensive execution. The strength of schedule and conference play indicates both teams are battle-tested, but Kentucky's scoring depth provides multiple paths to victory.
