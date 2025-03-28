@@ -1,0 +1,91 @@
+(0.41146069288490517, 0.5885393071150948) with Beta(11.367231908492768, 16.25929987220503)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Arizona (4) will win against Duke (1) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (41.74%*, 58.26%)
+
+A: After analyzing both teams' performance data and recent trajectories, I expect this to be a closely contested game with a slight edge to Duke. The Blue Devils have shown superior offensive efficiency and better defensive metrics in conference play. Their strength of schedule has been more challenging, and they've demonstrated remarkable consistency, particularly in their tournament run. Looking at key matchups, Duke's height advantage and superior rim protection could pose problems for Arizona's interior scoring. While Arizona has shown explosive offensive potential, their results are more volatile, suggesting a wider range of possible outcomes. The neutral court setting slightly diminishes Duke's typical home court advantage, but their tournament experience and deeper bench provide additional advantages. Their more disciplined style of play traditionally performs well in tournament settings, though there remains a meaningful chance for Arizona to pull off the upset if they can control the tempo and exploit their superior three-point shooting.
+
+[Negative]
+
+Q: What is the probability that Arizona will lose to Duke in their Sweet 16 matchup?
+
+Pred: (41.37%, 58.63%*)
+
+A: Based on a comprehensive analysis of both teams' season performance, I expect Duke to have a meaningful advantage in this matchup. Duke's superior offensive efficiency (128.3 vs Arizona's 114.3) and stronger defensive metrics suggest they are the more complete team. The Blue Devils' momentum is particularly notable, having won their last six games decisively. Their height advantage and significantly better free throw percentage (81.4% vs 77.6%) could prove crucial in a tight tournament game. The matchup data suggests Duke matches up well against Arizona's style, particularly in transition defense and perimeter shooting. However, there is some uncertainty given Arizona's strong rebounding numbers and their ability to generate second-chance points. The distribution is slightly skewed toward higher probabilities of an Arizona loss, reflecting Duke's overall statistical advantages and tournament experience. While extreme outcomes are possible, results are likely to cluster around the mean expectation.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Arizona (4) will win against Duke (1) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (41.95%*, 58.05%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I expect a highly competitive matchup with Duke holding a slight advantage. The Blue Devils have shown superior offensive efficiency (128.3 vs 114.3) and have been particularly strong in conference play. My confidence in the prediction is moderate given both teams' tournament performances and the neutral court setting. Results are slightly lopsided toward Duke given their stronger defensive metrics and better schedule strength rating. The overall distribution suggests a reasonably concentrated outcome around my central estimate, though there remains meaningful uncertainty given the high-stakes tournament environment. Tournament experience and depth metrics suggest Duke has additional intangible advantages, though Arizona's strong rebounding and transition game could create variance in potential outcomes. Both teams have shown the ability to win close games, but Duke's superior free throw shooting and defensive consistency provide them with better paths to victory in tight situations.
+
+[Negative]
+
+Q: What is the probability that Arizona will lose to Duke in their Sweet 16 matchup?
+
+Pred: (42.60%, 57.40%*)
+
+A: Based on comprehensive analysis of both teams' statistical profiles and performance trends, I believe Duke holds a meaningful advantage in this matchup. The Blue Devils demonstrate superior offensive efficiency and stronger defensive metrics across key categories. Duke's height advantage and more effective perimeter defense could create problems for Arizona's scoring patterns. Their tournament performance has shown increasing momentum, while Arizona has displayed some vulnerability in recent games. The outcome distribution suggests particular confidence in Duke's advantages, especially considering their depth and experience. While there's some uncertainty due to the high-stakes environment, the fundamental matchup factors point strongly toward Duke. Their superior ball control and better shooting percentages from multiple areas of the floor further reinforce this expectation. Tournament experience and coaching factors also weigh in Duke's favor.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Arizona (4) will win against Duke (1) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (42.23%*, 57.77%)
+
+A: After analyzing both teams' performance data and recent tournament results, I expect this to be a highly competitive matchup with a slight edge to Duke. The Blue Devils have shown superior offensive efficiency and stronger defensive metrics in conference play. Their momentum coming into this game is particularly notable, with impressive wins in their first two tournament games. While Arizona has demonstrated strong scoring ability, their defensive efficiency numbers suggest some vulnerability. The game being played in Newark provides a slight geographical advantage to Duke, though not as significant as a true home court. I anticipate the outcome will be influenced heavily by tempo control, where Duke's more measured pace could prove advantageous. The probability distribution reflects some uncertainty due to Arizona's explosive offensive potential, but leans toward Duke given their more consistent overall performance metrics and stronger defensive numbers.
+
+[Negative]
+
+Q: What is the probability that Arizona will lose to Duke in their Sweet 16 matchup?
+
+Pred: (40.62%, 59.38%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament history, I expect Duke to present significant challenges for Arizona. My analysis shows strong confidence in this prediction given Duke's superior offensive efficiency (128.3 vs Arizona's 114.3) and more consistent defensive performance throughout the season. The distribution of potential outcomes is slightly skewed toward a Duke victory, considering their impressive tournament run and stronger regular season record. Duke's home-region advantage playing in Newark adds another favorable factor. Their experienced roster has demonstrated remarkable composure in high-pressure situations, with players like Proctor and Filipowski showing exceptional tournament form. The Blue Devils' superior three-point shooting percentage and rebounding metrics suggest they match up particularly well against Arizona's style of play. While Arizona has shown flashes of brilliance, their inconsistent road performance and relatively weaker strength of schedule make them more vulnerable in this matchup.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Arizona will win against Duke in their Sweet 16 matchup of the Men's Basketball Championship - East Region?
+
+Pred: (42.51%*, 57.49%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I expect this to be a highly competitive matchup. Duke enters with slightly better offensive efficiency and a more consistent defensive showing throughout the season. Looking at key matchups and statistical profiles, the Blue Devils have demonstrated superior shooting efficiency and better ball control. While Arizona has shown impressive scoring ability, their defensive metrics suggest some vulnerability against elite offensive teams. The game being played at a neutral site somewhat neutralizes home court advantages, though Duke's tournament experience and deeper rotation could prove decisive in late-game situations. Results are likely to be somewhat skewed toward Duke given their stronger overall resume and tournament performance thus far. However, Arizona's ability to play at a high tempo and create transition opportunities keeps this matchup relatively uncertain with some risk of extreme outcomes in either direction.
+
+[Negative]
+
+Q: What is the probability that Arizona will lose to Duke in their Sweet 16 matchup?
+
+Pred: (42.53%, 57.47%*)
+
+A: Based on the comprehensive data analysis, I expect Arizona faces significant challenges in this matchup. Duke's defensive efficiency and superior shooting percentages suggest they have strong fundamentals to control the game. The outcomes appear skewed towards a Duke advantage, particularly given their impressive tournament performance and deeper roster experience. Their momentum through the season and especially in recent games indicates a strong likelihood of success. Duke's height advantage and superior rebounding statistics further strengthen their position. The Blue Devils' consistent execution in high-pressure situations and better overall efficiency metrics suggest they have multiple paths to victory. However, there remains some uncertainty due to Arizona's proven ability to compete at a high level against strong opponents throughout the season.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Arizona (4) will win against Duke (1) in their Sweet 16 matchup at the Prudential Center?
+
+Pred: (42.16%*, 57.84%)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and recent form, I expect this to be a highly competitive matchup with a slight edge to Duke. The Blue Devils have shown superior offensive efficiency and have been particularly strong in tournament play, with convincing wins in their first two games. My analysis suggests moderately concentrated outcomes around the mean prediction, though there is some uncertainty given the high-stakes nature of tournament basketball. The distribution of possible outcomes shows a slight rightward skew, reflecting Duke's marginally better statistical profile and tournament experience. Their superior defensive metrics and slightly better strength of schedule provide additional confidence in this assessment. However, Arizona's strong offensive rebounding and transition game introduce meaningful variance into the prediction, particularly given their ability to create extra possessions and quick scoring opportunities. Considering the neutral court setting and tournament atmosphere, I anticipate a tightly contested game where small advantages in execution will likely determine the outcome.
+
+[Negative]
+
+Q: What is the probability that Arizona will lose to Duke in their Sweet 16 matchup?
+
+Pred: (38.31%, 61.69%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and season trajectories, I expect Duke has several key advantages. Looking at offensive efficiency, Duke's superior shooting percentages and better ball control suggest meaningful edges. Their execution in tournament play has been particularly impressive, with more consistent scoring distribution and defensive stops. Their recent momentum is compelling, having won consecutive tournament games convincingly. While Arizona has shown strengths, particularly in transition offense, their defensive metrics and road performance indicate some vulnerabilities. The matchup dynamics and neutral court setting appear to favor Duke's style of play and depth. Tournament experience and coaching factors seem to lean toward Duke as well. I have high conviction in this assessment given the clear statistical advantages and performance trends, though there remains some uncertainty due to the high-stakes nature of tournament play.
