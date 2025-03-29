@@ -818,6 +818,70 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>43.07%</td>
       <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>South</td>
+      <td>Ole Miss (6)</td>
+      <td>Michigan St. (2)</td>
+      <td>34.52%</td>
+      <td>65.48%/td>
+      <td><a href="mens-bracket/picks/mississippi-vs-michigan-st.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>Michigan St. (2)</td>
+      <td>Ole Miss (6)</td>
+      <td>50.25%</td>
+      <td>49.75%</td>
+      <td><a href="mens-bracket/picks/michigan-st-vs-mississippi.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>Midwest</td>
+      <td>Kentucky (3)</td>
+      <td>Tennessee (2)</td>
+      <td>46.80%</td>
+      <td>53.20%/td>
+      <td><a href="mens-bracket/picks/kentucky-vs-tennessee.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>Midwest</td>
+      <td>Tennessee (2)</td>
+      <td>Kentucky (3)</td>
+      <td>47.65%</td>
+      <td>52.35%</td>
+      <td><a href="mens-bracket/picks/tennessee-vs-kentucky.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>Michigan (5)</td>
+      <td>Auburn (1)</td>
+      <td>36.56%</td>
+      <td>63.44%/td>
+      <td><a href="mens-bracket/picks/michigan-vs-auburn.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>Auburn (1)</td>
+      <td>Michigan (5)</td>
+      <td>49.46%</td>
+      <td>50.54%</td>
+      <td><a href="mens-bracket/picks/auburn-vs-michigan.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>Midwest</td>
+      <td>Purdue (4)</td>
+      <td>Houston (1)</td>
+      <td>36.20%</td>
+      <td>63.80%/td>
+      <td><a href="mens-bracket/picks/purdue-vs-houston.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>Midwest</td>
+      <td>Houston (1)</td>
+      <td>Purdue (4)</td>
+      <td>55.77%</td>
+      <td>44.23%</td>
+      <td><a href="mens-bracket/picks/houston-vs-purdue.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 

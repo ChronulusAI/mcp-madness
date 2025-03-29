@@ -1,0 +1,91 @@
+(0.362006342933066, 0.637993657066934) with Beta(9.064287077603657, 15.974741255885014)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Purdue will win against Houston in their Sweet 16 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (36.75%*, 63.25%)
+
+A: After analyzing both teams' performance data and trajectories, I expect this to be a highly competitive matchup with Houston having a meaningful advantage. The Cougars demonstrate superior defensive efficiency (95.4 vs 106.5) and have shown more consistency throughout the season. Their experience level is notably higher at 2.65 years compared to Purdue's 1.74 years. I predict with moderate certainty given both teams' strong performances in their first two tournament games. Results are somewhat skewed toward Houston given their higher adjusted efficiency margin and stronger defensive metrics. The outcome distribution shows moderate concentration around the mean, though there remains a meaningful chance of surprise results given tournament conditions and Purdue's offensive capabilities. Their contrasting styles - Houston's defensive prowess versus Purdue's offensive efficiency - create some uncertainty in precise outcome prediction. Consider also that Houston's strength of schedule has been comparable to Purdue's, suggesting their metrics are equally meaningful.
+
+[Negative]
+
+Q: What is the probability that Purdue will lose to Houston in their Sweet 16 matchup?
+
+Pred: (37.61%, 62.39%*)
+
+A: After analyzing both teams' statistical profiles and season performance, I expect Houston to have a significant advantage in this matchup. The Cougars demonstrate superior defensive metrics with a 95.4 adjusted defensive efficiency compared to Purdue's 106.5. Houston's aggressive defensive style and superior steal rate (12.5% vs 11.1%) suggests they can disrupt Purdue's offense effectively. While Purdue has shown strong offensive capabilities, Houston's defensive pressure and more balanced scoring attack presents major challenges. The Cougars' experience advantage (2.65 years vs 1.74 years) and stronger minutes continuity (67.2% vs 54.2%) suggests better team cohesion. Their ability to force turnovers and control the tempo could neutralize Purdue's size advantage. The outcome distribution is slightly skewed toward Houston's favor, with particularly strong confidence in the upper ranges due to their tournament experience and defensive prowess. However, there remains some uncertainty due to Purdue's elite offensive efficiency and strong interior presence.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Purdue will win against Houston in their Sweet 16 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (41.09%*, 58.91%)
+
+A: After analyzing both teams' performance data and recent tournament results, I expect this to be a competitive matchup with Houston having a moderate advantage. The Cougars have demonstrated superior defensive efficiency and more consistent overall performance throughout the season. Their balanced scoring attack and exceptional rebounding metrics suggest they match up well against Purdue's strengths. However, Purdue's offensive efficiency and dominant inside presence cannot be discounted. I predict with moderate certainty given the clear statistical indicators, though tournament dynamics add some uncertainty. The outcomes are slightly skewed toward Houston given their higher seed and stronger defensive metrics. Results are likely concentrated around my central estimate due to both teams' consistent performance patterns through the season. The possibility of extreme outcomes is relatively low given both teams' demonstrated ability to maintain their playing style under pressure.
+
+[Negative]
+
+Q: What is the probability that Purdue will lose to Houston in their Sweet 16 matchup?
+
+Pred: (31.11%, 68.89%*)
+
+A: Based on a comprehensive analysis of both teams' statistics and performance, I expect Houston to be significantly favored in this matchup. Their defensive metrics are particularly impressive, with an adjusted defensive efficiency rating well above average. The data suggests that Houston's aggressive defensive style and superior rebounding numbers will create substantial challenges for Purdue's offense. Looking at tempo and style components, Houston's ability to force turnovers and control pace aligns well against Purdue's vulnerabilities. My certainty is relatively high due to Houston's consistent performance against quality opponents throughout the season. The distribution is somewhat skewed toward higher probability outcomes of a Houston victory, reflecting their overall statistical advantages and tournament experience. Their depth and defensive intensity typically leads to more predictable outcomes, especially in tournament settings where their style tends to translate well.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Purdue will win their NCAA tournament matchup against Houston?
+
+Pred: (42.16%*, 57.84%)
+
+A: After analyzing both teams' performance data and season trajectories, this shapes up to be a highly competitive matchup. Houston brings superior defensive efficiency and better overall ball control, while Purdue has demonstrated strong offensive capabilities led by Zach Kaufman-Renn. I expect a close game with Houston having a slight edge due to their defensive prowess and tournament experience. The outcome distribution is somewhat skewed toward Houston's favor, given their consistent defensive performance and higher overall efficiency ratings. My confidence in this prediction is moderately high, as both teams have shown relatively stable performance patterns throughout the season. The combination of Houston's defensive pressure and Purdue's occasional turnover issues suggests more potential downside risk for Purdue. However, Purdue's strong offensive rebounding and three-point shooting efficiency could provide paths to victory.
+
+[Negative]
+
+Q: What is the probability that Purdue will lose to Houston in their Sweet 16 matchup?
+
+Pred: (35.47%, 64.53%*)
+
+A: After analyzing both teams' performance data, I expect Houston has significant advantages that make a Purdue loss quite plausible. Houston's defensive efficiency metrics are particularly impressive, with a strong emphasis on disrupting opposing offenses and forcing turnovers. Their depth of experienced players and superior defensive statistics suggest they match up well against Purdue's offensive strengths. The Cougars' ability to generate steals and contest shots will likely create challenges for Purdue's scoring system. I have relatively high certainty in this prediction given Houston's consistent performance throughout the season and their strong tournament showing thus far. The distribution is slightly skewed toward higher probabilities of a Purdue loss, reflecting Houston's overall stronger statistical profile and tournament experience. Their superior defensive metrics and ability to control game tempo could prove particularly problematic for Purdue's style of play. The potential for extreme outcomes is somewhat limited, as both teams have demonstrated consistent performance levels throughout the season.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Purdue will win against Houston in their Sweet 16 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (41.88%*, 58.12%)
+
+A: After analyzing both teams' performance data and trajectories, I expect this to be a competitive matchup that slightly favors Houston. Houston has demonstrated superior defensive efficiency and more consistent execution throughout the season. My expectation incorporates Houston's stronger overall statistical profile, particularly in defensive metrics and rebounding. The outcome distribution is somewhat skewed toward Houston due to their excellent defensive discipline and depth of experience. However, Purdue's offensive efficiency and size advantage, particularly with Zach Edey, creates meaningful upset potential. Results are likely to be concentrated around a close, defensive-oriented game where Houston's superior perimeter defense and rebounding battle against Purdue's interior dominance. Their contrasting styles and strengths suggest some possibility of more extreme outcomes, though the most likely scenario is a tightly contested game where Houston's defensive prowess proves decisive.
+
+[Negative]
+
+Q: What is the probability that Purdue will lose to Houston in their Sweet 16 matchup?
+
+Pred: (35.46%, 64.54%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics, I expect Houston to have a significant advantage in this matchup. The Cougars demonstrate superior defensive efficiency with a 95.4 rating compared to Purdue's 106.5, suggesting strong potential to disrupt Purdue's offense. My confidence is particularly high given Houston's outstanding turnover creation rate and their ability to generate second-chance opportunities through offensive rebounds. The distribution of possible outcomes appears skewed toward a Houston victory, driven by their deeper roster experience and stronger overall defensive metrics. Their superior steal percentage and block percentage indicate they can effectively pressure Purdue's offense. While Purdue has shown impressive offensive capabilities, Houston's defensive prowess and tournament experience make them particularly well-positioned. The risk of extreme outcomes is relatively low, as both teams have demonstrated consistency throughout the season.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Purdue will win against Houston in their Sweet 16 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (42.56%*, 57.44%)
+
+A: After analyzing both teams' performance data and season trajectories, I expect this to be a highly competitive matchup with Houston having a slight edge. The Cougars demonstrate superior defensive efficiency (95.4 vs 106.5) and better overall adjusted efficiency margins. Houston's exceptional defensive pressure and rebounding capabilities pose significant challenges for Purdue's offense. However, Purdue's strong offensive efficiency (118.1) and dominant interior presence cannot be discounted. The outcome distribution is slightly skewed toward Houston given their more consistent performance against quality opponents and superior defensive metrics. While Houston appears to be the stronger team overall, Purdue's elite offense keeps this from being a highly certain prediction. The tight spread reflects the potential for either team to advance, though extreme outcomes are less likely given both teams' demonstrated consistency through the season. The game being played in Indianapolis provides a slight home court advantage for Purdue, which somewhat counterbalances Houston's overall statistical advantages.
+
+[Negative]
+
+Q: What is the probability that Purdue will lose to Houston in their Sweet 16 matchup?
+
+Pred: (31.13%, 68.87%*)
+
+A: Based on the comprehensive data available, I expect Houston to have a strong advantage in this matchup. Houston's defensive metrics are exceptional, showing superior efficiency and particularly strong perimeter defense which could neutralize Purdue's outside shooting. The Cougars demonstrate remarkable consistency in their winning record and have a more experienced roster, with 2.65 years of D1 experience compared to Purdue's 1.74. I have high certainty in this prediction given Houston's balanced scoring attack and defensive prowess. Their results this season show consistently strong performances against quality opponents. The distribution of possible outcomes is slightly skewed toward even higher win probabilities for Houston, given their tournament experience and tactical matchup advantages. The defensive pressure Houston applies could particularly challenge Purdue's ball handlers, potentially leading to critical turnovers in key moments.
