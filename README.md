@@ -936,6 +936,22 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>40.50%</td>
       <td><a href="mens-bracket/picks/florida-vs-texas-tech.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>East</td>
+      <td>Alabama (2)</td>
+      <td>Duke (1)</td>
+      <td>38.51%</td>
+      <td>61.49%</td>
+      <td><a href="mens-bracket/picks/alabama-vs-duke.txt">txt</a></td>
+    </tr>
+    <tr>
+       <td>East</td>
+      <td>Duke (1)</td>
+      <td>Alabama (2)</td>
+      <td>57.90%</td>
+      <td>42.10%</td>
+      <td><a href="mens-bracket/picks/duke-vs-alabama.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 
