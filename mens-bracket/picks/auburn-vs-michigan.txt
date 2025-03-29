@@ -1,0 +1,91 @@
+(0.4945660102972781, 0.5054339897027219) with Beta(15.206595900810735, 15.54075750439036)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan (5) in their Sweet 16 matchup at State Farm Arena, Atlanta, GA?
+
+Pred: (58.23%*, 41.77%)
+
+A: Based on the comprehensive analysis of both teams' performance data and tournament progression, I expect a highly competitive matchup with Auburn holding a moderate advantage. Auburn's superior offensive efficiency (128.3 vs 116.9) and stronger defensive metrics throughout the season suggest they have an edge. The Tigers' exceptional depth and minutes continuity (54.5% vs 21.5%) indicates better team cohesion and ability to maintain performance levels throughout the game. The outcome distribution reflects some uncertainty due to Michigan's proven ability to compete against high-level opponents, as shown by their tournament success. I'm particularly mindful of Auburn's home-court advantage being somewhat neutralized at the neutral site. The probability distribution is slightly skewed toward Auburn due to their superior statistical profile, but Michigan's tournament experience and defensive capability keeps this from being a more decisive prediction. There's a meaningful risk of extreme outcomes in either direction, given both teams' ability to get hot from three-point range and the tournament setting's tendency to produce unexpected results.
+
+[Negative]
+
+Q: What is the probability that Auburn will lose to Michigan in their Sweet 16 matchup?
+
+Pred: (43.87%, 56.13%*)
+
+A: Based on the comprehensive data available, I expect Michigan has a strong chance to defeat Auburn in this matchup. The statistical profiles show Michigan's superior offensive efficiency and more consistent scoring patterns throughout the season. The Wolverines' height advantage and stronger defensive metrics suggest they match up well against Auburn's style of play. Their tournament performance so far demonstrates good momentum, particularly their impressive win against Texas A&M. Results are somewhat skewed toward the higher probability ranges, reflecting Michigan's demonstrated ability to compete with top-ranked teams. While there's moderate uncertainty in the outcome due to Auburn's strong regular season performance, Michigan's experience in tough games and superior shooting efficiency make them a formidable opponent. The distribution shows some concentration around the mean prediction, though there remains a reasonable chance of extreme outcomes given the high-stakes nature of tournament play.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan (5) in their Sweet 16 matchup at State Farm Arena, Atlanta, GA?
+
+Pred: (58.46%*, 41.54%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and tournament runs, I expect a highly competitive matchup. Auburn shows superior offensive efficiency (128.3 vs 116.9) and has demonstrated more consistency throughout the season. The Tigers' stronger defensive metrics and rebounding advantages suggest they have multiple paths to victory. However, Michigan's tournament experience and recent strong performances against quality opponents indicate they cannot be dismissed. While the data points to Auburn as the favorite, I predict with moderate certainty given tournament dynamics and Michigan's ability to rise to big occasions. Results are slightly skewed toward Auburn's favor, considering their depth advantage and superior bench contribution. The outcome distribution shows modest concentration around the mean, reflecting the inherent volatility of tournament basketball and both teams' capability to perform at high levels.
+
+[Negative]
+
+Q: What is the probability that Auburn will lose to Michigan in their Sweet 16 matchup?
+
+Pred: (46.68%, 53.32%*)
+
+A: Based on the comprehensive data analysis, I expect Michigan to have a meaningful chance at defeating Auburn. My analysis suggests a moderate uncertainty due to both teams showing strong offensive capabilities but different defensive strengths. The outcomes appear slightly skewed toward Michigan's favor given their superior shooting efficiency and recent tournament performance. Their veteran leadership through players like Danny Wolf and Vladislav Goldin provides stability in high-pressure situations. The defensive metrics and tempo differences between these teams create interesting matchup dynamics that could lead to some unexpected results. Tournament experience and momentum suggest a wider range of possible outcomes than regular season data might indicate. Michigan's ability to control the pace and their superior three-point defense could prove particularly impactful in this matchup.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan (5) in their Sweet 16 matchup at the State Farm Arena in Atlanta, GA?
+
+Pred: (57.42%*, 42.58%)
+
+A: Based on comprehensive analysis of both teams' performance data and season trajectories, I expect a closely contested match with Auburn having a slight edge. The analytics show Auburn has superior offensive efficiency (118.2 vs 105.7) and stronger defensive metrics. Auburn's home-region advantage in Atlanta could be significant, though their recent performance shows some vulnerability. Michigan has demonstrated resilience in tournament play but faces challenges against Auburn's tempo and defensive pressure. The outcome distribution reflects Auburn's overall stronger statistical profile while accounting for Michigan's tournament experience and upset potential. Results are somewhat skewed toward Auburn given their higher seed and statistical advantages, though there remains meaningful uncertainty given tournament conditions. I predict with moderate certainty given both teams' demonstrated tournament capabilities. While extreme outcomes are possible, the matchup profiles suggest a competitive game with results likely concentrated around my mean expectation.
+
+[Negative]
+
+Q: What is the probability that Auburn will lose to Michigan in their Sweet 16 matchup?
+
+Pred: (47.61%, 52.39%*)
+
+A: Based on the comprehensive data, I expect Michigan has a meaningful chance of victory. The offensive efficiency metrics show Michigan's adjusted offense (116.9) outperforming Auburn's (118.2), though both are strong. The defensive metrics and strength of schedule components suggest these teams are evenly matched in many areas. I predict with moderate certainty given both teams' tournament performances and regular season consistency. Results are somewhat skewed toward the higher probabilities given Michigan's strong guard play and recent momentum, particularly after their impressive win against Texas A&M. Michigan's superior height advantage and slightly better three-point shooting efficiency could be key factors. Tournament experience and depth metrics indicate potential fat tails in the distribution, as games at this stage often come down to late-game execution. Recent form suggests Michigan has been playing their best basketball at the right time.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan (5) in their Sweet 16 matchup at the State Farm Arena in Atlanta, GA?
+
+Pred: (61.56%*, 38.44%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent tournament results, I expect a competitive matchup with Auburn holding a moderate advantage. Auburn's superior offensive efficiency (118.2 vs 105.7) and stronger defensive metrics suggest they are the better team overall. Their impressive run through the season and tournament demonstrates consistent high-level performance. However, Michigan has shown remarkable resilience in their tournament wins and their adjusted efficiency metrics indicate they're playing better than their raw numbers suggest. The game being played in Atlanta provides a slight geographical advantage to Auburn, though this effect is somewhat muted in tournament settings. Results are likely skewed slightly right, reflecting Auburn's higher ceiling and stronger overall statistical profile. I predict with moderate certainty given the high stakes of tournament play and Michigan's demonstrated ability to exceed expectations. The possibility of extreme outcomes is relatively low, as both teams have shown consistent performance levels in high-pressure situations.
+
+[Negative]
+
+Q: What is the probability that Auburn will lose to Michigan in their Sweet 16 matchup?
+
+Pred: (43.66%, 56.34%*)
+
+A: Based on the comprehensive data analysis, I expect Auburn faces significant challenges despite their higher seed. The statistical metrics suggest moderately high uncertainty in this prediction, with Michigan showing impressive offensive efficiency and strong perimeter defense. The distribution of possible outcomes is somewhat skewed toward Michigan's favor, particularly given their tournament experience and recent performance against high-caliber opponents. Their superior height advantage and stronger bench depth could prove decisive factors. Results are concentrated around a modest edge for Michigan, though there remains meaningful uncertainty given Auburn's impressive regular season performance and offensive capabilities. Tournament experience and momentum appear to favor Michigan, though the outcome remains far from certain given Auburn's demonstrated resilience throughout the season.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan (5) in their Sweet 16 matchup at State Farm Arena in Atlanta, GA?
+
+Pred: (58.44%*, 41.56%)
+
+A: After analyzing both teams' performance metrics and recent tournament results, I expect a highly competitive matchup slightly favoring Auburn. Auburn's superior offensive efficiency (128.3 vs 116.9) and stronger defensive metrics give them an edge. Their deeper rotation and better minutes continuity (54.5% vs 21.5%) suggests better stamina and adaptability. The game being in Atlanta provides a slight geographical advantage for Auburn's fanbase. However, Michigan has shown remarkable tournament resilience, particularly in their impressive win against Texas A&M. I predict with moderate certainty given both teams' demonstrated ability to perform under pressure. Results are somewhat skewed toward Auburn given their more consistent season-long performance and superior depth. While extreme outcomes are possible, the matchup characteristics suggest a moderately close game is most likely, though Auburn's offensive firepower could create separation.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan (5) in their Sweet 16 matchup?
+
+Pred: (42.60%, 57.40%*)
+
+A: Based on the comprehensive data available, I expect Michigan has a strong chance of defeating Auburn. The offensive efficiency metrics suggest Michigan can effectively challenge Auburn's defense, with Michigan showing better shooting percentages in conference play. Looking at the season trajectories, Michigan's strength of schedule and recent tournament performances indicate they match up well against Auburn's style. I predict with moderate certainty around this outcome, given both teams' consistent performance patterns throughout the season. Results are somewhat skewed toward a Michigan victory, particularly considering their superior height advantage and better offensive rebounding numbers. The distribution of possible outcomes shows notable concentration around my central estimate, though there remains meaningful uncertainty due to tournament conditions. Michigan's experienced lineup and superior three-point defense could prove especially impactful in this matchup.
