@@ -818,6 +818,25 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>43.07%</td>
       <td><a href="mens-bracket/picks/duke-vs-arizona.txt">txt</a></td>
     </tr>
+  </tbody>
+</table>
+
+
+
+### Sweet 16- Day 2 (Updated with data on games through March 27)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>South</td>
       <td>Ole Miss (6)</td>
@@ -881,6 +900,41 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>55.77%</td>
       <td>44.23%</td>
       <td><a href="mens-bracket/picks/houston-vs-purdue.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+### Elite 8 - Day 1 (Updated with data on games through March 28)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>West</td>
+      <td>Texas Tech (3)</td>
+      <td>Florida (1)</td>
+      <td>36.95%</td>
+      <td>63.05%</td>
+      <td><a href="mens-bracket/picks/texas-tech-vs-florida.txt">txt</a></td>
+    </tr>
+    <tr>
+       <td>West</td>
+      <td>Florida (1)</td>
+      <td>Texas Tech (3)</td>
+      <td>59.50%</td>
+      <td>40.50%</td>
+      <td><a href="mens-bracket/picks/florida-vs-texas-tech.txt">txt</a></td>
     </tr>
   </tbody>
 </table>
