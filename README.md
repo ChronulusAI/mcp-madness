@@ -986,6 +986,22 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>40.84%</td>
       <td><a href="mens-bracket/picks/houston-vs-tennessee.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>South</td>
+      <td>Michigan St (2)</td>
+      <td>Auburn (1)</td>
+      <td>38.37%</td>
+      <td>61.63%</td>
+      <td><a href="mens-bracket/picks/michigan-st-vs-auburn.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>Auburn (1)</td>
+      <td>Michigan St (2)</td>
+      <td>51.36%</td>
+      <td>48.64%</td>
+      <td><a href="mens-bracket/picks/auburn-vs-michigan-st.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 
