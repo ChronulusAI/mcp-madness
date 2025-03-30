@@ -1,0 +1,91 @@
+(0.36951903895081833, 0.6304809610491817) with Beta(11.089920462363775, 18.921849685803892)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Florida in their Elite 8 matchup?
+
+Pred: (42.39%*, 57.61%)
+
+A: Based on recent performance metrics, I expect a highly competitive matchup with a slight edge to Florida. The Gators have shown exceptional offensive efficiency, with notably higher shooting percentages and scoring output in their last 10 games. While Texas Tech demonstrates strong defensive capabilities, Florida's momentum and superior offensive statistics suggest they have the advantage. I predict with moderate certainty, considering both teams' consistent recent performances. The outcomes are slightly skewed toward Florida's favor, given their impressive 9-1 record and superior offensive metrics. However, Texas Tech's defensive prowess and lower points allowed suggests they could keep the game close. Results are likely concentrated around our expectation with some possibility of deviation due to the high-stakes nature of an Elite 8 matchup.
+
+[Negative]
+
+Q: What is the probability that Texas Tech (3) will lose to Florida (1) in their Elite 8 matchup?
+
+Pred: (36.42%, 63.58%*)
+
+A: Based on recent performance metrics, I expect Florida to have a strong advantage in this matchup. Florida's offensive output has been exceptional, averaging over 90 points in their last 10 games while shooting at a higher efficiency. Their momentum is particularly impressive with a 9-1 record in their last 10 games. While Texas Tech has shown solid form with an 8-2 record, their scoring average and field goal percentage are notably lower. The margin of uncertainty is relatively narrow given both teams' consistent recent performances. The distribution of possible outcomes shows a slight rightward skew, suggesting a higher likelihood of a decisive Florida victory rather than a close Texas Tech win. The risk of extreme outcomes is moderate, considering both teams' demonstrated ability to maintain consistent performance levels throughout the tournament.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Florida in their Elite 8 matchup?
+
+Pred: (43.63%*, 56.37%)
+
+A: Based on recent performance metrics, I expect a highly competitive matchup between these two teams. Florida has shown impressive offensive prowess, with significantly better shooting efficiency and scoring output in their last 10 games. The Gators' momentum is particularly strong with a 9-1 record compared to Texas Tech's 8-2. While Texas Tech demonstrates better defensive capabilities, allowing fewer points per game, their overall offensive statistics suggest they may struggle to keep pace with Florida's high-scoring system. My analysis indicates this will be a close game with a slight edge to Florida, though there is considerable uncertainty in this prediction. The game's outcome distribution is slightly skewed toward Florida given their superior offensive efficiency, but there's a meaningful chance of an upset given Texas Tech's defensive strength. The concentration of possible outcomes suggests a moderately high likelihood of the game remaining competitive throughout.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Florida in this Elite 8 matchup?
+
+Pred: (35.60%, 64.40%*)
+
+A: Based on recent performance metrics, I expect Florida to demonstrate significant advantages in this matchup. Their offensive output has been exceptional, with consistently higher shooting percentages and scoring numbers. My assessment shows a moderate degree of certainty in this prediction, considering both teams' strong recent records. The potential outcomes appear slightly skewed toward a Florida victory, given their superior offensive efficiency and momentum from their last ten games. Their scoring average of 90.5 points per game significantly outpaces Texas Tech's defensive metrics. Looking at the distribution shape, there's a moderate concentration of probability around the mean prediction, though we must account for the inherent volatility of tournament basketball. The tournament setting and neutral court somewhat temper what might otherwise be an even stronger prediction in Florida's favor. Their superior field goal percentage and more diverse offensive threats provide a compelling edge.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Florida in their Elite 8 matchup?
+
+Pred: (41.13%*, 58.87%)
+
+A: Based on recent performance metrics, my expectation leans towards Florida, despite Texas Tech's strong defensive showing. The Gators' superior offensive efficiency and shooting percentage in their last 10 games suggests a significant advantage. I predict with moderate certainty given the tournament context and the high-stakes nature of an Elite 8 matchup. The results are slightly skewed towards Florida due to their impressive scoring average of 90.5 points compared to Texas Tech's 78.8 points. While Texas Tech's defense has been more effective, allowing fewer points per game, Florida's dynamic offense and better field goal percentage creates a more favorable outlook for them. There is a relatively low risk of extreme outcomes, as both teams have demonstrated consistency in their recent performances, though Florida's momentum with a 9-1 record in their last 10 games is particularly noteworthy.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Florida in their Elite 8 matchup?
+
+Pred: (37.25%, 62.75%*)
+
+A: Based on recent performance metrics, I expect Florida to have a strong advantage in this matchup. Their offensive output has been exceptional, averaging over 90 points in their last 10 games with a superior shooting percentage. While both teams have shown strong form, Florida's momentum appears more convincing with a 9-1 record versus Texas Tech's 8-2. The outcome distribution is slightly skewed toward a Florida victory, given their higher offensive efficiency and better overall statistics. However, Texas Tech's defensive capabilities introduce some uncertainty into the prediction. The likelihood of an extreme outcome is relatively low, as both teams are well-matched Elite 8 contenders. Tournament experience and the neutral venue at Chase Center suggest a competitive game, though Florida's statistical advantages point to them being favored.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Florida in their Elite 8 matchup at Chase Center?
+
+Pred: (41.16%*, 58.84%)
+
+A: Based on recent performance metrics, I expect a highly competitive matchup with Florida holding a moderate advantage. Florida's offensive efficiency has been remarkable, with significantly higher scoring and better shooting percentages in their last 10 games. Their momentum and consistency are notable factors, having won 9 of their last 10 games. While Texas Tech has shown strong defensive capabilities, Florida's superior offensive output and overall team statistics suggest they have the upper hand. The matchup dynamics indicate some uncertainty in the outcome, though results are slightly skewed in Florida's favor. The game being played at a neutral site reduces home court advantages, but Florida's tournament experience and recent form suggest they are better positioned. There's a moderately concentrated probability distribution around my prediction, reflecting the competitive nature of Elite 8 matchups.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Florida in their Elite 8 matchup?
+
+Pred: (31.82%, 68.18%*)
+
+A: Based on recent performance metrics, I expect Florida to have a strong advantage in this matchup. The Gators' offensive output has been remarkably superior, averaging 90.5 points compared to Texas Tech's 78.8 points over their last 10 games. Results are likely skewed toward a Florida victory due to their significantly better shooting percentage (48.6% vs 42.9%) and more aggressive defense with higher steals per game. My prediction comes with moderate certainty given both teams' consistent recent performance, though there is some risk of extreme outcomes given the high-stakes nature of Elite 8 games. The Gators' superior momentum with a 9-1 record versus Texas Tech's 8-2 suggests strong positioning, while their higher rebound rate and assist numbers indicate better team cohesion.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Texas Tech will win against Florida in their Elite 8 matchup at Chase Center?
+
+Pred: (41.39%*, 58.61%)
+
+A: Based on the recent performance metrics, I expect a fairly competitive matchup but with a slight edge to Florida. The Gators have shown exceptional offensive prowess, averaging significantly higher points per game and shooting more efficiently from the field. While Texas Tech has demonstrated strong defensive capabilities, their lower scoring output and field goal percentage suggest they may struggle to keep pace. However, the game outcomes could be more variable than the stats suggest due to the high-stakes tournament environment. Looking at momentum, Florida's 9-1 record in their last 10 games compared to Texas Tech's 8-2 indicates a slight psychological advantage. The distribution of potential outcomes is somewhat skewed toward Florida's favor, but the tournament setting introduces additional uncertainty that could lead to surprise results. I've factored in Texas Tech's superior defensive metrics which could potentially disrupt Florida's high-scoring offense, making this a closer contest than raw offensive numbers might suggest.
+
+[Negative]
+
+Q: What is the probability that Texas Tech will lose to Florida in their Elite 8 matchup?
+
+Pred: (37.06%, 62.94%*)
+
+A: Based on recent performance metrics, I expect Florida to have a strong advantage in this matchup. The Gators' impressive offensive output of 90.5 points per game compared to Texas Tech's 78.8 points suggests a significant scoring differential. With Florida's superior shooting percentage (48.6% vs 42.9%) and better performance in key statistical categories like rebounds and assists, my expectations lean heavily toward a Florida victory. The Gators' momentum with a 9-1 record in their last 10 games, compared to Texas Tech's 8-2, also factors into this assessment. I predict with relatively high certainty given the clear statistical advantages, though tournament pressure could introduce some variability. The distribution is slightly skewed left, reflecting the possibility of Texas Tech overperforming their recent metrics. However, the results are likely concentrated around my central estimate, as both teams have shown consistency in their recent performances.

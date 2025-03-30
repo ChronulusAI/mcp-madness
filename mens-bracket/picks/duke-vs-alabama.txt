@@ -1,0 +1,91 @@
+(0.5790484386105301, 0.4209515613894699) with Beta(16.125556731384858, 11.722815971388217)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Duke will win against Alabama in their Elite 8 matchup of the NCAA Men's Basketball Championship East Region?
+
+Pred: (58.07%*, 41.93%)
+
+A: After analyzing both teams' performance metrics and recent trends, I expect a highly competitive matchup with a slight edge to Duke. The Blue Devils enter with perfect momentum over their last 10 games while showing superior defensive efficiency. Their offensive metrics and recent execution suggest they match up well against Alabama's high-tempo style. My confidence in this prediction is moderately high given both teams' consistent performance patterns through the tournament. The distribution of possible outcomes shows a slight rightward skew favoring Duke, particularly due to their defensive advantages and tournament experience. Results are likely to be concentrated around my central estimate, though there remains meaningful uncertainty given Alabama's explosive offensive capability. The contrast in playing styles - Duke's controlled efficiency versus Alabama's high-octane offense - creates some additional variance in potential outcomes.
+
+[Negative]
+
+Q: What is the probability that Duke will LOSE to Alabama in their Elite 8 matchup?
+
+Pred: (57.49%, 42.51%*)
+
+A: Looking at the data, Duke enters with tremendous momentum on a 10-game winning streak and superior defensive metrics, allowing only 66.5 points per game compared to Alabama's 83.4. Duke's offensive efficiency (126.33) and defensive rating (95.31) show better balance than Alabama's more offense-heavy approach. The teams have contrasting styles - Duke plays at a more controlled pace while Alabama pushes tempo (76.4 vs 65.8). Duke's experience continuity (20.9%) gives them an edge in tournament play over Alabama's (43.3%). However, Alabama's explosive offense (93.4 ppg) and strong rebounding numbers could pose problems. While I expect Duke to be favored, their loss probability has a right skew due to Alabama's high-variance style and potential for explosive scoring runs. The uncertainty is concentrated around mean expectations rather than extreme outcomes, reflecting both teams' strong fundamental metrics.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Duke will win their NCAA tournament game against Alabama?
+
+Pred: (57.43%*, 42.57%)
+
+A: After analyzing both teams' performance metrics and recent form, I'm leaning towards Duke having a slight edge in this matchup. Duke enters with perfect momentum over their last 10 games while demonstrating superior defensive efficiency. Their ability to limit opponents to 66.5 points per game contrasts sharply with Alabama's more porous defense allowing 83.4 points. While Alabama's offensive output is impressive at 93.4 points per game, Duke's balanced approach and tournament experience provide better fundamentals for a high-stakes game. The defensive disparity creates an asymmetric risk profile favoring Duke, though Alabama's explosive offense keeps them firmly in contention. The neutral court slightly diminishes home advantage factors, but Duke's superior defensive metrics and momentum suggest they hold an advantage. Given the stakes and venue, I expect a closely contested game with moderate uncertainty in the outcome. The possibility of Alabama's high-powered offense taking control creates some tail risk, though Duke's defensive consistency provides some protection against extreme outcomes.
+
+[Negative]
+
+Q: What is the probability that Duke will LOSE to Alabama in their Elite 8 matchup?
+
+Pred: (58.34%, 41.66%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics, Duke appears vulnerable despite their recent winning streak. Alabama's high-powered offense averaging 93.4 points in their last 10 games poses a significant challenge. The Crimson Tide's superior offensive rebounding percentage and higher tempo could create problems for Duke's defensive schemes. However, Alabama's defensive metrics show concerning weaknesses, allowing 83.4 points per game recently. Duke's offensive efficiency has been exceptional, though Alabama's ability to force turnovers could disrupt their rhythm. The game being played at a neutral site somewhat diminishes Duke's typical advantages. While Duke has shown remarkable consistency, their lack of experience against teams with Alabama's specific offensive profile introduces uncertainty. The distribution reflects a moderate right skew, acknowledging that while Duke could lose, extreme blowout scenarios are less likely.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Duke will win against Alabama in their Men's Basketball Championship - East Region - Elite 8 matchup?
+
+Pred: (58.42%*, 41.58%)
+
+A: After analyzing both teams' performance metrics and recent form, I expect a highly competitive matchup. Duke enters with impressive momentum, showing exceptional efficiency on both ends of the floor and perfect form in their last 10 games. Their defensive metrics are particularly strong, allowing significantly fewer points than Alabama's defense. The Blue Devils' controlled tempo and superior defensive efficiency suggest they can dictate the game's pace. While Alabama's high-powered offense is formidable, their defensive vulnerabilities and recent inconsistency (7-3 in last 10) create some concerns. The contrast in playing styles - Duke's disciplined approach versus Alabama's up-tempo style - favors Duke's tournament experience and defensive prowess. I predict with moderate certainty that Duke's ability to control pace and their superior defensive metrics will be decisive factors. Results are slightly skewed toward a Duke victory, though Alabama's explosive offense keeps this from being a highly concentrated probability distribution.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will LOSE to Alabama (2) in their Elite 8 matchup?
+
+Pred: (61.96%, 38.04%*)
+
+A: Based on my analysis of both teams' performance metrics and recent form, I expect Alabama has a meaningful chance to defeat Duke. The Crimson Tide's explosive offense, averaging over 93 points in their last 10 games, poses a serious threat. Their tempo metrics indicate they'll push the pace, which could disrupt Duke's more controlled style. However, Alabama's defensive metrics are concerning, allowing over 83 points per game recently, while Duke has been more balanced. The Blue Devils' superior efficiency ratings and impressive 10-game win streak suggest stronger overall form. The matchup dynamics favor Duke's disciplined approach, though Alabama's high-variance style introduces significant uncertainty. I've modeled a right-skewed distribution reflecting the possibility of an Alabama upset, but acknowledging Duke's advantages in most key statistical categories.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Duke (1) will win against Alabama (2) in their NCAA Men's Basketball Championship East Region Elite 8 matchup?
+
+Pred: (57.28%*, 42.72%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent trends, I expect a closely contested game with a slight edge to Duke. Duke enters with perfect momentum on a 10-game winning streak while demonstrating superior defensive efficiency. Their adjusted efficiency metrics show better overall balance between offense and defense compared to Alabama. The Blue Devils' more controlled tempo and lower variance in scoring suggests more consistency in execution. Alabama's high-scoring offense presents a serious challenge, but their defensive metrics indicate vulnerability, especially in transition. The game being played at a neutral site in Newark slightly favors Duke's style of play. While Alabama's explosive offense could create upset potential, Duke's combination of defensive prowess and efficient scoring projects more favorably for advancing.
+
+[Negative]
+
+Q: What is the probability that Duke will LOSE to Alabama in their Elite 8 matchup?
+
+Pred: (57.78%, 42.22%*)
+
+A: Looking at the data, Duke enters with incredible momentum, having won their last 10 games while demonstrating superior defensive efficiency. However, Alabama's high-powered offense averaging 93.4 points in their last 10 games presents a serious threat. The contrasting styles show Alabama's faster tempo and higher scoring versus Duke's more controlled approach. Alabama's defensive vulnerabilities, allowing 83.4 points per game recently, suggest potential issues against Duke's efficient offense. The Blue Devils' defensive metrics and lower opponent scoring indicate better adaptability in tournament-style games. Given these factors, while Duke appears to have advantages, Alabama's explosive offense and tournament performance so far create meaningful upset potential. I expect a moderately right-skewed distribution reflecting the possibility of an Alabama victory, though with considerable uncertainty given the high-stakes nature of an Elite 8 matchup.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Duke will win against Alabama in their Men's Basketball Championship - East Region - Elite 8 matchup?
+
+Pred: (58.46%*, 41.54%)
+
+A: Based on comprehensive analysis of both teams' recent performance and statistical profiles, I expect a highly competitive matchup with a slight edge to Duke. The Blue Devils enter with perfect momentum over their last 10 games while demonstrating superior defensive efficiency. Their statistical profile shows better ball control and more consistent shooting percentages. I'm particularly convinced by Duke's defensive metrics, allowing only 66.5 points per game compared to Alabama's 83.4 points allowed. Results are somewhat skewed toward Duke due to their exceptional defensive discipline and tournament experience. However, Alabama's high-powered offense adds significant uncertainty to this prediction, as they've shown the ability to overcome strong defenses. The outcome distribution reflects moderate certainty around my central estimate, with some possibility of surprise results given Alabama's explosive scoring potential. While I expect Duke's disciplined approach to prevail, there remains a meaningful chance of Alabama's offensive firepower taking control of the game.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will LOSE to Alabama (2) in their Elite 8 matchup?
+
+Pred: (59.35%, 40.65%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics, I expect Alabama has a meaningful chance to defeat Duke. Duke enters with perfect momentum but Alabama's offensive efficiency and pace could pose problems. The higher scoring nature of Alabama's recent games combined with their strong three-point shooting suggests paths to victory exist. However, Duke's superior defensive metrics and tournament experience introduce significant uncertainty. While Alabama's tempo advantage could be disruptive, Duke's balanced scoring attack and better ball security indicate resilience. The distribution skews somewhat toward Duke's favor, meaning lower probabilities of an Alabama victory, but with notable uncertainty in the tails given the high-variance nature of Alabama's style. Tournament experience and defensive consistency support a relatively concentrated distribution around the mean estimate.

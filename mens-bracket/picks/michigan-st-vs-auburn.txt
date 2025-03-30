@@ -1,0 +1,91 @@
+(0.38374647695074665, 0.6162535230492534) with Beta(9.509170866121401, 15.270654975359593)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Michigan State will win against Auburn in their Elite 8 matchup of the NCAA Men's Basketball Championship South Region?
+
+Pred: (43.03%*, 56.97%)
+
+A: After analyzing both teams' performance metrics and recent trajectories, I've formed a probabilistic assessment of this matchup. Michigan State has shown remarkable efficiency and defensive prowess, particularly in their recent 9-1 stretch. The Spartans' methodical approach and strong defensive metrics suggest they can control game tempo effectively. Looking at their tournament run and season-long analytics, I believe this will be a closely contested game with a slight edge to Auburn. The Tigers' higher offensive ceiling and superior scoring efficiency over their last 10 games provides them with multiple paths to victory. Auburn's ability to create turnovers and their superior blocking presence adds defensive upside to their already potent offense. However, Michigan State's experience in close games and strong perimeter defense could keep this competitive throughout. The venue being neutral and both teams showing strong tournament form suggests some uncertainty in the outcome, though Auburn's overall statistical profile and momentum gives them a moderate advantage.
+
+[Negative]
+
+Q: What is the probability that Michigan State will LOSE to Auburn in their Elite 8 matchup?
+
+Pred: (62.11%, 37.89%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I expect Auburn to have a strong advantage in this matchup. Auburn's offensive efficiency rating of 118.2 compared to Michigan State's 112.8 suggests superior scoring potential. The Tigers' remarkable momentum through the tournament, including decisive victories, indicates they are peaking at the right time. Their faster tempo and superior offensive rebounding percentage provide key advantages. While Michigan State has shown impressive resilience, Auburn's defensive metrics and shot-blocking ability could prove challenging for the Spartans' offense. The distribution of possible outcomes skews toward an Auburn victory, with particularly strong confidence in the middle ranges. However, March Madness history reminds us that unexpected outcomes remain possible, especially given Michigan State's tournament experience. The presence of elite players like Johni Broome for Auburn versus Tyson Walker for Michigan State creates some uncertainty in the tails of our distribution.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Michigan State will win against Auburn in their Elite 8 matchup of the Men's Basketball Championship - South Region?
+
+Pred: (41.65%*, 58.35%)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I expect a highly competitive matchup with a slight edge to Auburn. The Tigers have demonstrated superior offensive efficiency (127.9 vs 119.1) and are playing with tremendous momentum after dominant tournament performances. However, Michigan State's defensive prowess and their recent 9-1 record suggests they are peaking at the right time. The outcome uncertainty is moderately high given both teams' ability to perform under pressure and their contrasting styles of play. Results are somewhat skewed toward Auburn given their higher ceiling on offense and better overall season metrics, though Michigan State's defensive discipline keeps them firmly in contention. Their tournament experience and coaching provides a solid floor for their performance, though Auburn's explosiveness gives them more pathways to victory. The game's neutral site location slightly reduces home court advantages that either team might typically enjoy.
+
+[Negative]
+
+Q: What is the probability that Michigan State will LOSE to Auburn in their Elite 8 matchup?
+
+Pred: (31.41%, 68.59%*)
+
+A: After analyzing both teams' performance metrics and recent trends, I expect Auburn to have a significant advantage in this matchup. The Tigers' offensive efficiency rating of 118.2 and higher scoring output in recent games positions them strongly. Auburn's impressive tournament run, including convincing wins over quality opponents, demonstrates their peak form. I have relatively high certainty in this prediction given Auburn's superior depth and consistent performance against strong competition. The potential for upset is somewhat skewed toward Michigan State's favor due to their defensive capabilities and tournament experience, but Auburn's advantages in tempo and scoring efficiency are compelling. Their higher offensive rebounding percentage and better rim protection suggest they can control key aspects of the game. The distribution of possible outcomes shows a concentrated likelihood around Auburn's victory, though there remains a meaningful chance of Michigan State pulling off the upset given their defensive prowess and recent strong form.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Michigan State will win against Auburn in their Elite 8 matchup of the NCAA Men's Basketball Championship South Region?
+
+Pred: (41.85%*, 58.15%)
+
+A: Based on comprehensive analysis of both teams' recent performance and statistical profiles, I expect a closely contested game with a slight edge to Auburn. The Tigers have demonstrated superior offensive efficiency and scoring capability, averaging over 81 points in their last 10 games. While Michigan State has shown excellent form winning 9 of their last 10, their defensive metrics and slower tempo suggest they may struggle to keep pace with Auburn's high-powered offense. The game's outcomes could vary significantly based on pace control, with Michigan State's chances improving in a lower-scoring contest. Auburn's higher field goal percentage and more balanced scoring attack gives them a moderate advantage, though Michigan State's tournament experience and defensive discipline keeps them competitive. The venue being in Atlanta potentially provides a slight geographical advantage to Auburn. Tournament pressure and Elite 8 stakes suggest some possibility of unexpected outcomes, though the fundamental matchup favors Auburn's style and depth.
+
+[Negative]
+
+Q: What is the probability that Michigan State will LOSE to Auburn in their Elite 8 matchup?
+
+Pred: (35.37%, 64.63%*)
+
+A: Based on comprehensive analysis of both teams' recent performance and statistical profiles, I expect Auburn to have a strong advantage in this matchup. Looking at the offensive efficiency metrics, Auburn's higher-tempo style and superior scoring output suggests they'll create significant challenges. Their recent performance shows impressive consistency, though there is some uncertainty due to varying levels of competition. The strength of schedule components indicate both teams have been battle-tested, but Auburn's metrics are marginally stronger. I observe a slight right skew in the potential outcomes, suggesting more upside scenarios for Auburn's victory margin. While there's meaningful uncertainty around the exact outcome, the data points to Auburn having multiple paths to victory through their superior offensive firepower and defensive disruption capabilities. Their ability to force turnovers and protect the rim adds another dimension favoring their chances.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Michigan State will win against Auburn in their Elite 8 matchup of the NCAA Men's Basketball Championship South Region?
+
+Pred: (41.88%*, 58.12%)
+
+A: After analyzing both teams' performance metrics and recent form, I expect a highly competitive matchup with Auburn holding a slight edge. The Tigers have demonstrated superior offensive efficiency (127.9 vs 119.1) and have been particularly strong in transition play. I predict with moderate certainty based on Auburn's consistent performance against top competition and their superior defensive metrics, especially in blocking shots and forcing turnovers. The outcomes are somewhat skewed toward Auburn's favor due to their higher ceiling on offense and more diverse scoring options, led by Johni Broome's dominant interior presence. Results are likely concentrated around a close game scenario, given both teams' tournament experience and defensive capabilities. Michigan State's recent surge in form and Tom Izzo's tournament expertise keeps this from being a more decisive prediction, but Auburn's balance of interior presence and perimeter shooting creates more paths to victory.
+
+[Negative]
+
+Q: What is the probability that Michigan State will LOSE to Auburn in their Elite 8 matchup?
+
+Pred: (36.30%, 63.70%*)
+
+A: Based on a comprehensive analysis of both teams' performance metrics and recent form, Auburn appears to have several key advantages. Their offensive efficiency rating is notably higher at 118.2 compared to Michigan State's 112.8, suggesting stronger scoring potential. The Tigers have demonstrated exceptional shooting consistency and have a more dynamic offense averaging 81.5 points in their last 10 games. Their defensive metrics also show strength with higher block percentages and steal rates. While Michigan State has shown impressive recent form winning 9 of their last 10, the overall statistical profile suggests they face an uphill battle. I expect the game to be competitive early but skew towards Auburn's advantage as their superior depth and offensive firepower takes hold. There is moderate uncertainty in this prediction given the tournament setting and Michigan State's proven ability to perform under pressure. The possibility of an extreme outcome favoring Michigan State exists but is less likely given Auburn's consistent statistical advantages across multiple categories.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Michigan State will win against Auburn in their Elite 8 matchup of the NCAA Men's Basketball Championship South Region?
+
+Pred: (42.49%*, 57.51%)
+
+A: Based on comprehensive analysis of both teams' recent performance and statistical profiles, this promises to be a highly competitive matchup. After examining their respective schedules and efficiency metrics, I expect a slight edge for Auburn. The Tigers have demonstrated superior offensive efficiency and scoring capability, though Michigan State's defensive metrics are notably strong. Looking at momentum and recent form, both teams have impressed in the tournament, but Auburn's more explosive offense creates more paths to victory. The game being played in Atlanta provides a marginal geographic advantage to Auburn. While there's meaningful uncertainty in this prediction, the distribution of possible outcomes tilts in Auburn's favor, particularly given their ability to create defensive pressure and force turnovers. The possibility of an upset remains significant though, especially considering Michigan State's excellent coaching and tournament experience. The relatively wide spread in potential outcomes reflects the high-stakes nature of tournament basketball and both teams' demonstrated ability to play at an elite level.
+
+[Negative]
+
+Q: What is the probability that Michigan State will LOSE to Auburn in their Elite 8 matchup?
+
+Pred: (34.81%, 65.19%*)
+
+A: After analyzing both teams' performance metrics and recent trajectories, my expectation centers around Auburn having a significant advantage in this matchup. Auburn's offensive efficiency (118.2) notably outpaces Michigan State's (112.8), suggesting stronger scoring capabilities. The outcome distribution is notably skewed toward an Auburn victory, given their superior tempo and scoring versatility. Their performance against top competition has been particularly impressive, with a stronger strength of schedule component (117.2 vs 114.5). Looking at the uncertainty bands, I'm fairly confident in the general direction but acknowledge some variability due to tournament pressure and Michigan State's recent improved play. The distribution shows moderate tails, reflecting the inherent unpredictability of tournament basketball, though Auburn's statistical advantages across multiple categories suggest a more concentrated probability mass favoring their victory.

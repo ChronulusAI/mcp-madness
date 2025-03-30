@@ -1,0 +1,91 @@
+(0.37305333524432094, 0.6269466647556791) with Beta(11.066818104715349, 18.598693657744683)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee will win against Houston in their Elite 8 matchup of the NCAA Men's Basketball Championship?
+
+Pred: (38.03%*, 61.97%)
+
+A: After careful analysis of both teams' performance metrics and recent form, I expect this to be a competitive but Houston-favored matchup. The Cougars have shown exceptional defensive prowess, allowing only 60.7 points in their last 10 games while maintaining a perfect record. Their defensive efficiency metrics are particularly impressive, suggesting they can effectively contain Tennessee's offense. My confidence in this prediction is moderately high, given both teams' consistent performance patterns throughout the season. The outcome distribution is slightly skewed toward Houston, given their superior defensive metrics and tournament performance thus far. While Tennessee has shown strong offensive capabilities, Houston's elite defense and more consistent overall performance suggests they have multiple paths to victory. Results are likely to be concentrated around a close but decisive Houston victory, though there remains a meaningful chance of Tennessee pulling off the upset given their offensive firepower and recent strong form.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will LOSE to Houston (1) in their Elite 8 matchup?
+
+Pred: (35.60%, 64.40%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I anticipate a strong likelihood of Tennessee falling short against Houston. The Cougars' exceptional defensive efficiency and their perfect 10-0 record in their last ten games strongly supports this outcome. Their ability to hold opponents to just 60.7 points while forcing turnovers through 8.0 steals per game presents a significant challenge for Tennessee's offense. The uncertainty is somewhat constrained given Houston's consistent defensive performances, though there remains some variability due to Tennessee's offensive potential and their own strong recent form (8-2 in last 10). The distribution leans notably toward Houston's victory, with particular concentration around strong win probabilities. While extreme blowout scenarios are less likely, the overall shape of possible outcomes favors Houston's defensive prowess prevailing over Tennessee's offensive capabilities.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee will win against Houston in their Elite 8 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (42.21%*, 57.79%)
+
+A: After careful analysis of both teams' performance metrics and recent form, I expect this to be a highly competitive matchup with Houston having a slight edge. The Cougars have shown exceptional defensive prowess, allowing only 60.7 points in their last 10 games while maintaining a perfect record. Their superior rebounding and steals statistics suggest they can control game tempo effectively. However, Tennessee's offensive efficiency and ability to score against tough opponents keeps them firmly in contention. The matchup is particularly interesting given Tennessee's stronger shooting percentage but Houston's superior defensive metrics. While Houston enters with momentum, their lower shooting percentage introduces some uncertainty. The relatively lower scoring nature of Houston's recent games suggests this could be a grinding, defensive battle where possessions are highly valued. Given the stakes and venue, I anticipate a closely fought contest with outcomes slightly favoring Houston but with considerable potential for variance.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will LOSE to Houston (1) in their Elite 8 matchup?
+
+Pred: (35.59%, 64.41%*)
+
+A: After analyzing both teams' performance metrics and recent trajectories, I expect Houston has notable advantages that make Tennessee's defeat quite probable. The defensive efficiency metrics strongly favor Houston, who has held opponents to just 60.7 points over their last 10 games while maintaining an undefeated streak. The uncertainty is relatively concentrated given Houston's consistent defensive performance and superior turnover creation rate. The distribution of possible outcomes skews towards a Tennessee loss, particularly considering Houston's elite defensive metrics and significant advantages in steals and overall defensive pressure. Their perfect record in the last 10 games and stronger defensive numbers suggest a high likelihood of controlling the game's pace and style. However, there remains a small but notable chance of Tennessee overcoming these odds given their offensive capabilities and strong recent form, having won 8 of their last 10.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee will win against Houston in their Elite 8 matchup of the NCAA Men's Basketball Championship?
+
+Pred: (40.99%*, 59.01%)
+
+A: After analyzing both teams' performance metrics and recent trajectories, I anticipate a highly competitive matchup but favor Houston slightly. The Cougars have demonstrated exceptional defensive efficiency and maintain better overall statistical metrics. Their perfect 10-0 record in recent games showcases remarkable consistency and momentum. However, Tennessee's offensive capabilities and strong performance against high-caliber opponents cannot be dismissed. Their ability to generate points against elite defenses and their superior assist numbers suggest they could challenge Houston's defensive schemes. The game's outcome has considerable uncertainty given Tennessee's recent strong performances, though Houston's defensive prowess and tournament experience provide them an edge. The location being a neutral court somewhat neutralizes home advantage factors, but Houston's superior depth and defensive consistency are likely to be decisive factors.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will LOSE to Houston (1) in their Elite 8 matchup?
+
+Pred: (35.47%, 64.53%*)
+
+A: Based on the comprehensive analysis of both teams' performance metrics, I expect Houston has strong advantages that make a Tennessee loss quite plausible. The Cougars demonstrate superior defensive efficiency and have been remarkably consistent, winning their last 10 games straight. Their ability to generate turnovers and control the pace significantly threatens Tennessee's offensive rhythm. The outcomes appear skewed toward a Tennessee defeat, particularly given Houston's tournament experience and defensive prowess. Their lock-down defense allows only 60.7 points in their last 10 games, which could severely disrupt Tennessee's scoring patterns. The distribution of possible outcomes shows a notable concentration around a Houston victory, though there remains some uncertainty due to Tennessee's recent strong performances and offensive capabilities. The tails of the distribution are relatively thin, suggesting extreme outcomes are less likely.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee (2) will win against Houston (1) in their Elite 8 matchup of the Men's Basketball Championship - Midwest Region?
+
+Pred: (42.22%*, 57.78%)
+
+A: After analyzing both teams' performance metrics and recent form, I expect a highly competitive matchup with a slight edge to Houston. The Cougars demonstrate superior defensive efficiency and have shown remarkable consistency with a perfect 10-0 record in their last ten games. Their defensive prowess, particularly in limiting opponents to just 60.7 points per game, gives them a significant advantage. The outcome distribution is somewhat skewed toward Houston given their tournament experience and stellar defensive metrics, though Tennessee's offensive capabilities keep them firmly in contention. The certainty in this prediction is moderate, considering both teams' strong statistical profiles and tournament performance. There is a meaningful risk of extreme outcomes given the high-stakes nature of an Elite 8 game and both teams' ability to dominate when playing at their peak. Tennessee's recent offensive output and their ability to create turnovers could prove crucial in potentially upsetting the higher seed.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will LOSE to Houston (1) in their Elite 8 matchup?
+
+Pred: (35.45%, 64.55%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I expect Houston has compelling advantages that make a Tennessee loss quite plausible. The Cougars bring superior defensive efficiency and have shown remarkable consistency, winning their last 10 games while holding opponents to just 60.7 points. My confidence in this outcome is relatively high given Houston's elite defensive metrics and stronger overall statistical profile. Results are somewhat skewed toward a Tennessee defeat due to Houston's significant advantages in turnover creation and defensive rebounding. The outcomes are fairly concentrated around my central estimate given both teams' consistent performance patterns throughout the season. Houston's remarkable defensive efficiency combined with their superior offensive rebounding percentage suggests they match up particularly well against Tennessee's strengths.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Tennessee will win against Houston in their Elite 8 matchup of the NCAA Men's Basketball Championship?
+
+Pred: (41.97%*, 58.03%)
+
+A: After analyzing both teams' performance metrics and recent trajectories, I've arrived at a measured prediction for this Elite 8 matchup. Houston enters with superior defensive efficiency and an impressive 10-game winning streak, while Tennessee has shown strong but somewhat inconsistent form. The Cougars' defensive prowess, particularly their ability to generate turnovers and limit opponents' scoring, creates a significant advantage. However, Tennessee's offensive firepower and ability to score from multiple positions keeps them competitive in this matchup. The game's location at a neutral site slightly reduces home court effects. Given Houston's stronger overall statistical profile and tournament performance, I expect them to have the upper hand, though with meaningful uncertainty due to Tennessee's high ceiling when playing at their best. The outcome distribution reflects some right skew toward Tennessee's chances, acknowledging their potential to overcome Houston's defensive strength with exceptional shooting performance. The relatively wide spread in probable outcomes accounts for both teams' demonstrated ability to dominate games when executing their preferred styles.
+
+[Negative]
+
+Q: What is the probability that Tennessee (2) will LOSE to Houston (1) in their Elite 8 matchup?
+
+Pred: (35.57%, 64.43%*)
+
+A: Based on comprehensive analysis of both teams' performance metrics and recent form, I'm centering my expectations around a strong likelihood of a Tennessee loss. Houston's defensive efficiency is particularly impressive, ranking among the best in the nation. Looking at momentum, Houston enters with perfect execution in their last 10 games while Tennessee shows some vulnerability with two recent losses. The distribution of possible outcomes tilts notably toward Houston's advantage, given their superior defensive metrics and tournament experience. My uncertainty is relatively contained given Houston's consistent defensive performance and Tennessee's occasional offensive struggles. While Tennessee has shown flashes of brilliance, their scoring inconsistency against elite defenses makes them particularly vulnerable. The shape of potential outcomes skews toward Houston's strengths, especially considering their ability to control game tempo and force opponents into difficult shots.

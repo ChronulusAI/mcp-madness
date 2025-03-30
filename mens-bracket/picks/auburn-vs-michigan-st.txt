@@ -1,0 +1,181 @@
+(0.47053167777282406, 0.5294683222271759) with Beta(21.675199206015158, 24.39013545670248)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Auburn will win their NCAA tournament match against Michigan State?
+
+Pred: (47.17%*, 52.83%)
+
+A: Based on recent performance metrics, I expect a highly competitive match between these two strong teams. Michigan State's impressive 9-1 record in their last 10 games shows exceptional momentum, while Auburn's 7-3 record indicates some vulnerability. The Spartans have demonstrated superior defensive capabilities, allowing only 66.1 points per game compared to Auburn's 72.5. However, Auburn's offensive prowess, averaging 81.5 points per game, could provide a significant advantage. Given Michigan State's better rebounding statistics and more consistent recent performance, I predict with moderate certainty a slight edge in their favor. The outcomes are likely skewed toward Michigan State due to their defensive consistency and recent win streak. Results are likely concentrated around the mean prediction, though there remains a possibility of unexpected outcomes given the high-stakes tournament environment.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (46.78%, 53.22%*)
+
+A: Based on recent performance metrics, I expect Michigan State to present a serious challenge to Auburn. The Spartans' impressive 9-1 record in their last 10 games demonstrates stronger momentum compared to Auburn's 7-3 record. Michigan State's defensive prowess is particularly noteworthy, holding opponents to just 66.1 points per game, while Auburn's defense has allowed 72.5 points. I believe there's moderate uncertainty in this prediction, with a slight skew towards a Michigan State victory due to their superior defensive statistics and recent win streak. The Spartans' better rebounding numbers (36.6 vs 31.8) suggest they may control the pace of the game. However, Auburn's higher scoring average and better field goal percentage indicate they have explosive potential, making extreme outcomes possible in either direction.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Auburn will win against Michigan State in their Elite 8 matchup?
+
+Pred: (47.23%*, 52.77%)
+
+A: Based on recent performance metrics, I expect a closely contested game with a slight edge to Michigan State due to their superior defensive metrics and better recent form. The Spartans' impressive 9-1 record in their last 10 games, compared to Auburn's 7-3, suggests stronger momentum. While Auburn shows higher scoring potential, averaging 81.5 points compared to Michigan State's 75.3, the Spartans' defensive efficiency, allowing only 66.1 points per game versus Auburn's 72.5, is particularly noteworthy. Results are likely skewed slightly toward Michigan State given their more consistent recent performance and stronger defensive metrics. I predict with moderate certainty given the competitive nature of Elite 8 matchups and the relatively even matching of these teams. There is a relatively low risk of extreme outcomes, as both teams have demonstrated consistent performance levels throughout the tournament.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (43.96%, 56.04%*)
+
+A: Based on recent performance metrics, I expect Michigan State's superior defensive prowess and rebounding advantage to be significant factors. The Spartans' impressive 9-1 record in their last 10 games demonstrates stronger momentum compared to Auburn's 7-3 stretch. My analysis suggests moderate uncertainty in the outcome, given Auburn's higher scoring average but less consistent defensive performance. The distribution is slightly skewed towards a Michigan State victory, considering their better defensive efficiency allowing only 66.1 points per game compared to Auburn's 72.5. The tournament setting and high-stakes nature of an Elite 8 game typically favor teams with stronger defensive fundamentals. While Auburn's offensive capabilities present a clear threat, Michigan State's disciplined approach and superior rebounding margin provide them with multiple paths to victory. The outcome distribution shows some concentration around the mean, reflecting the relatively predictable nature of these well-matched teams.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win their Men's Basketball Championship - South Region - Elite 8 match against Michigan St (2)?
+
+Pred: (56.25%*, 43.75%)
+
+A: Based on recent performance metrics, I expect a highly competitive match between these two strong teams. Michigan State's impressive 9-1 record in their last 10 games shows exceptional form, while Auburn's 7-3 record indicates good but slightly less consistent performance. The Spartans have demonstrated superior defensive capabilities, allowing only 66.1 points per game compared to Auburn's 72.5. However, Auburn's offensive output has been notably higher at 81.5 points per game versus Michigan State's 75.3. When considering their shooting percentages and rebound differentials, there's a slight lean toward Auburn due to their higher offensive efficiency. The outcome distribution is somewhat skewed toward Auburn's favor, though not dramatically so, given Michigan State's recent momentum and defensive prowess. I predict with moderate certainty, as both teams have shown they can compete at an elite level, but there's a meaningful risk of extreme outcomes given the high-stakes nature of an Elite 8 matchup.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (43.96%, 56.04%*)
+
+A: Based on recent performance metrics, I expect Michigan State to have a strong chance of defeating Auburn, particularly given their impressive 9-1 record in their last 10 games compared to Auburn's 7-3. I predict with moderate certainty given the substantial defensive advantage Michigan State has shown, allowing only 66.1 points per game compared to Auburn's 72.5. The outcomes are likely skewed right, considering Michigan State's superior rebounding statistics and more consistent defensive performance. However, there remains some uncertainty due to Auburn's higher scoring average and better shooting percentage. The distribution has relatively thin tails as both teams are well-matched elite programs, reducing the likelihood of extreme outcomes. Michigan State's momentum and defensive prowess significantly influence my confidence in their chances, though Auburn's offensive capabilities keep this from being a highly lopsided prediction.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win their NCAA Men's Basketball Championship South Region Elite 8 match against Michigan St (2)?
+
+Pred: (42.46%*, 57.54%)
+
+A: Based on recent performance metrics, I expect this to be a closely contested match with a slight edge to Michigan State. The Spartans' impressive 9-1 record in their last 10 games, coupled with their stronger defensive showing (allowing only 66.1 points compared to Auburn's 72.5), suggests they have better momentum and defensive discipline. While Auburn's offense has been more prolific, averaging 81.5 points compared to Michigan State's 75.3, results are likely to be skewed toward Michigan State due to their superior rebounding statistics and more consistent recent performance. I predict with moderate certainty given both teams' strong tournament seedings and the high-stakes nature of an Elite 8 matchup. Tournament experience and coaching could be deciding factors, and Michigan State's tournament pedigree under Tom Izzo adds weight to their chances. Results are likely highly concentrated around my mean prediction given both teams' demonstrated consistency.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (52.52%, 47.48%*)
+
+A: Based on recent performance metrics, I expect Michigan State's defensive prowess to be a significant factor, with their opponents averaging only 66.1 points in their last 10 games. The Spartans' impressive 9-1 record in their last 10 games suggests strong momentum and execution. Their superior rebounding numbers (36.6 vs 31.8) could prove decisive in limiting Auburn's second-chance opportunities. My prediction shows moderate uncertainty due to Auburn's higher scoring average and better shooting percentage, which could potentially overcome Michigan State's defensive advantage. The distribution is slightly skewed toward higher probabilities of an Auburn loss, considering Michigan State's tournament experience and defensive consistency. Despite Auburn's higher seed, the potential for an upset is significant given Michigan State's recent form and defensive metrics. The outcomes are somewhat concentrated around my central estimate, reflecting the relatively predictable nature of Elite 8 matchups between well-matched teams.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win their NCAA Men's Basketball Championship Elite 8 match against Michigan St (2)?
+
+Pred: (47.19%*, 52.81%)
+
+A: Based on recent performance metrics, I expect a closely contested game with a slight edge to Michigan State. The Spartans have shown exceptional form, winning 9 of their last 10 games while demonstrating superior defensive capabilities, allowing only 66.1 points per game compared to Auburn's 72.5. While Auburn's offense has been more prolific, averaging 81.5 points per game, Michigan State's defensive efficiency and better rebounding numbers (36.6 vs 31.8) suggest they can control the game's pace. I predict with moderate certainty, given both teams' consistency in recent performances. Results are slightly skewed toward Michigan State due to their defensive prowess and tournament experience. The outcome distribution shows moderate concentration around the mean, reflecting the relatively predictable nature of these well-matched teams, though there remains some risk of extreme outcomes given the high-stakes tournament setting.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose against Michigan St (2) in their Elite 8 matchup?
+
+Pred: (43.98%, 56.02%*)
+
+A: Based on recent performance metrics, I expect Michigan State's superior defensive efficiency and momentum to be significant factors. My analysis suggests moderate uncertainty in the outcome, though Michigan State's impressive 9-1 record in their last 10 games compared to Auburn's 7-3 shows strong recent form. The distribution is slightly skewed towards higher probabilities of an Auburn loss, considering Michigan State's ability to hold opponents to just 66.1 points per game. Their stronger rebounding numbers (36.6 vs 31.8) suggest better control of possession and second-chance opportunities. The defensive discipline of Michigan State could prove challenging for Auburn's higher-scoring but less efficient offense. While there is some risk of extreme outcomes due to Auburn's explosive scoring potential, results are likely to be moderately concentrated around the mean prediction. Michigan State's tournament experience and coaching could be key intangible factors.
+
+--- Expert 6 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win their NCAA Men's Basketball Championship Elite 8 match against Michigan St (2)?
+
+Pred: (46.71%*, 53.29%)
+
+A: Based on recent performance metrics, I expect a closely contested game with a slight edge to Michigan State. The Spartans' impressive 9-1 record in their last 10 games demonstrates superior form compared to Auburn's 7-3. While Auburn shows higher scoring potential, averaging 81.5 points compared to Michigan State's 75.3, the Spartans' defensive efficiency is notably stronger, allowing only 66.1 points per game versus Auburn's 72.5. The results are likely skewed towards Michigan State due to their better rebounding statistics and more consistent defensive performance. I predict with moderate certainty given the teams' contrasting styles - Auburn's high-scoring offense versus Michigan State's disciplined defense. There is a relatively low risk of extreme outcomes due to both teams' proven tournament experience and coaching stability. The Spartans' momentum and defensive prowess gives them a slight advantage, though Auburn's explosive offense keeps them competitive.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (43.63%, 56.37%*)
+
+A: Based on recent performance metrics, I expect Michigan State has a strong chance of defeating Auburn, given their impressive 9-1 record in their last 10 games compared to Auburn's 7-3. The Spartans' defensive prowess, allowing only 66.1 points per game versus Auburn's 72.5, suggests a substantial advantage. I predict with moderate certainty due to the contrasting styles of play - Michigan State's methodical approach against Auburn's higher-scoring offense. The outcomes are likely skewed towards Michigan State's favor due to their superior rebounding numbers and more efficient defensive metrics. Their tournament experience and coaching under Tom Izzo adds weight to their chances. However, there is some risk of extreme outcomes given Auburn's explosive offensive capability, averaging 81.5 points per game, which could potentially overwhelm Michigan State's defensive system.
+
+--- Expert 7 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan St (2) in their Elite 8 matchup?
+
+Pred: (47.18%*, 52.82%)
+
+A: Based on recent performance metrics, I expect a closely contested game with a slight edge to Michigan State. Over their last 10 games, Michigan State has shown exceptional form with a 9-1 record and strong defensive metrics, holding opponents to just 66.1 points per game. While Auburn's offense has been more prolific, averaging 81.5 points per game, their defensive numbers are less impressive. The game being played in Atlanta gives Auburn a slight geographical advantage, but Michigan State's tournament experience and defensive prowess are significant factors. The probability distribution reflects moderate uncertainty given the contrasting styles of play, with results slightly skewed toward Michigan State due to their superior recent form and defensive efficiency. There is a notable risk of extreme outcomes given the high-stakes nature of an Elite 8 game and the potential for either team's strengths to dominate the matchup.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (46.73%, 53.27%*)
+
+A: Based on recent performance metrics, I expect Michigan State to have a strong chance of defeating Auburn, particularly given their impressive 9-1 record in their last 10 games compared to Auburn's 7-3. Michigan State's defensive prowess, allowing only 66.1 points per game versus Auburn's 72.5, suggests a meaningful advantage. Their superior rebounding numbers (36.6 vs 31.8) indicate better control of possessions. The outcome distribution is slightly skewed toward Michigan State's favor, considering their consistent tournament performance and defensive efficiency. However, there is moderate uncertainty in this prediction due to Auburn's higher scoring average and better shooting percentage. The results are somewhat concentrated around the mean, with limited risk of extreme outcomes given both teams' demonstrated consistency in recent games.
+
+--- Expert 8 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win their NCAA Men's Basketball Championship Elite 8 match against Michigan St (2)?
+
+Pred: (57.51%*, 42.49%)
+
+A: Based on recent performance metrics, I expect a highly competitive match between these two strong teams. Michigan State's impressive 9-1 record in their last 10 games shows exceptional momentum, while Auburn's 7-3 record indicates good but slightly less consistent performance. The Spartans have demonstrated superior defensive capabilities, allowing only 66.1 points per game compared to Auburn's 72.5. However, Auburn's offensive prowess with 81.5 points per game compared to Michigan State's 75.3 suggests they have the firepower to overcome strong defenses. I predict with moderate certainty given the contrasting strengths of these teams. The outcomes are slightly skewed toward Auburn due to their higher seeding and offensive capabilities, though Michigan State's recent form creates significant upset potential. Results are relatively concentrated around the mean prediction, with moderate risk of extreme outcomes given the high-stakes nature of Elite 8 games and the proven ability of both teams to perform under pressure.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (43.12%, 56.88%*)
+
+A: Based on recent performance metrics, I expect Michigan State to have a strong chance in this matchup despite their lower seed. My analysis suggests a moderately high likelihood of an Auburn loss, considering Michigan State's impressive 9-1 record in their last 10 games compared to Auburn's 7-3. The Spartans' superior defensive metrics, allowing only 66.1 points per game versus Auburn's 72.5, heavily influences this prediction. The distribution shows some right skew, reflecting the possibility that Auburn's high-scoring offense (81.5 points per game) could potentially struggle more than expected against Michigan State's disciplined defense. I have relatively high certainty in this prediction due to the consistent defensive performance of Michigan State and their better rebounding numbers. The outlier scenarios largely favor a Michigan State victory, particularly considering their tournament experience and coaching advantage.
+
+--- Expert 9 ---
+
+[Positive]
+
+Q: What is the probability that Auburn will win their NCAA tournament matchup against Michigan State?
+
+Pred: (56.27%*, 43.73%)
+
+A: Based on recent performance metrics, this matchup presents an interesting contrast in styles. My expectation leans slightly toward Auburn due to their superior offensive output and shooting efficiency. The Tigers' higher scoring average and field goal percentage suggest an advantage in creating scoring opportunities. However, Michigan State's impressive 9-1 record in their last 10 games and superior rebounding numbers indicate strong momentum and defensive capabilities. Results are likely skewed toward Auburn due to their explosive offensive potential, though Michigan State's defensive discipline could compress scoring opportunities. I predict with moderate certainty given the clear statistical indicators, but there is a risk of fat tails due to tournament pressure and the potential impact of each team's distinct playing style. The Spartans' lower points allowed suggests they could control the game's pace, but Auburn's offensive firepower might be too much to contain.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (41.57%, 58.43%*)
+
+A: Based on recent performance metrics, I expect Michigan State to have a strong chance of defeating Auburn, despite being the lower seed. The Spartans' impressive 9-1 record in their last 10 games, coupled with their superior defensive metrics (allowing only 66.1 points per game compared to Auburn's 72.5), suggests they're hitting their stride at the perfect time. I predict with moderate certainty, as tournament games often have unexpected twists. The probability distribution is slightly skewed toward higher probabilities of an Auburn loss, given Michigan State's momentum and defensive prowess. Their rebounding advantage (36.6 vs 31.8) could prove crucial in limiting Auburn's possessions. However, the concentrated nature of my predictions reflects Michigan State's consistent recent performance, though I acknowledge the inherent volatility of tournament basketball. Auburn's higher scoring average presents a notable threat that widens the uncertainty in my estimates.
+
+--- Expert 10 ---
+
+[Positive]
+
+Q: What is the probability that Auburn (1) will win against Michigan St (2) in their Elite 8 matchup?
+
+Pred: (56.33%*, 43.67%)
+
+A: Based on recent performance metrics, this matchup presents an interesting contrast in styles. Michigan State has shown exceptional defensive consistency, allowing only 66.1 points per game in their last 10, while maintaining a strong 9-1 record. On the other side, Auburn's offense has been more potent, averaging 81.5 points, but their defensive numbers suggest some vulnerability. I expect this game to be fairly competitive given both teams' seeding and recent success. The Spartans' superior rebounding advantage and better defensive metrics suggest they could control the pace, though Auburn's explosive offense could prove decisive. Results are slightly skewed toward Auburn given their higher offensive ceiling and overall season performance. Their variance in recent games suggests some uncertainty in the outcome, though their scoring potential provides a higher upside. While Michigan State's consistency is noteworthy, tournament dynamics often favor teams with higher scoring potential.
+
+[Negative]
+
+Q: What is the probability that Auburn (1) will lose to Michigan St (2) in their Elite 8 matchup?
+
+Pred: (53.29%, 46.71%*)
+
+A: Based on recent performance metrics, I expect Michigan State's strong defensive showing and superior rebounding to be significant factors. The Spartans' impressive 9-1 record in their last 10 games demonstrates exceptional form and momentum. My prediction reflects moderate uncertainty given the high-stakes nature of Elite 8 games and the potential impact of tournament pressure. The distribution is slightly skewed right, acknowledging Auburn's high-scoring offense could pose challenges to Michigan State's defensive strategy. Results are moderately concentrated around the mean, with some allowance for unexpected outcomes given the tournament setting. Michigan State's better defensive metrics and rebounding advantage suggest they match up well against Auburn's scoring-focused approach.
