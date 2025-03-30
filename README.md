@@ -955,6 +955,40 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+
+### Elite 8 - Day 2 (Updated with data on games through March 29)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Midwest</td>
+      <td>Tennessee (2)</td>
+      <td>Houston (1)</td>
+      <td>37.31%</td>
+      <td>62.69%</td>
+      <td><a href="mens-bracket/picks/tennessee-vs-houston.txt">txt</a></td>
+    </tr>
+    <tr>
+       <td>Midwest</td>
+      <td>Houston (1)</td>
+      <td>Tennessee (2)</td>
+      <td>59.16%</td>
+      <td>40.84%</td>
+      <td><a href="mens-bracket/picks/houston-vs-tennessee.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
