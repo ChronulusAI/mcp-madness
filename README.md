@@ -998,8 +998,8 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>South</td>
       <td>Auburn (1)</td>
       <td>Michigan St (2)</td>
-      <td>51.36%</td>
-      <td>48.64%</td>
+      <td>47.05%</td>
+      <td>52.95%</td>
       <td><a href="mens-bracket/picks/auburn-vs-michigan-st.txt">txt</a></td>
     </tr>
   </tbody>
