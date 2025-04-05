@@ -1005,6 +1005,40 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+
+### Final Four (Updated with data on games through April 4)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Florida (1)</td>
+      <td>Auburn (1)</td>
+      <td>47.08%</td>
+      <td>52.91%</td>
+      <td><a href="mens-bracket/picks/florida-vs-auburn.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Auburn (1)</td>
+      <td>Florida (1)</td>
+      <td>46.80%</td>
+      <td>53.20%</td>
+      <td><a href="mens-bracket/picks/auburn-vs-florida.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
