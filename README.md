@@ -1036,6 +1036,22 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>53.20%</td>
       <td><a href="mens-bracket/picks/auburn-vs-florida.txt">txt</a></td>
     </tr>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Houston (1)</td>
+      <td>Duke (1)</td>
+      <td>49.46%</td>
+      <td>50.54%</td>
+      <td><a href="mens-bracket/picks/houston-vs-duke.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Duke (1)</td>
+      <td>Houston (1)</td>
+      <td>42.28%</td>
+      <td>57.72%</td>
+      <td><a href="mens-bracket/picks/duke-vs-houston.txt">txt</a></td>
+    </tr>
   </tbody>
 </table>
 
