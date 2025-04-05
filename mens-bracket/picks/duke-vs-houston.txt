@@ -1,0 +1,93 @@
+request_id: a5016e3e-13a2-45e9-b74b-5db94c18ed87
+
+(0.4228168403321594, 0.5771831596678406) with Beta(22.72787664067649, 31.02560352539676)
+
+--- Expert 1 ---
+
+[Positive]
+
+Q: What is the probability that Duke (side1) will win the Men's Basketball Championship Final Four game against Houston (side2)?
+
+Pred: (46.62%*, 53.38%)
+
+A: My analysis suggests a slight edge to Houston in this Elite Eight matchup of two top-seeded teams. I expect a highly competitive game between two powerhouse programs, both riding impressive win streaks into this contest. The outcome distribution shows a modest skew toward Houston, given their marginally superior season-long performance and slightly longer win streak. Given that both teams were highly ranked in preseason and have fulfilled those expectations, I predict with high certainty that this will be a close contest. The results are likely to be concentrated around my central estimate, reflecting the consistent high-level performance of both teams throughout the season. There is a relatively low risk of a blowout in either direction, given the defensive prowess and experienced coaching staffs of both programs.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will lose to Houston (1) in their Final Four matchup?
+
+Pred: (37.60%, 62.40%*)
+
+A: Based on the exceptional form of both teams coming into this matchup, with Houston carrying the nation's longest win streak and their preseason #1 ranking, I expect them to have a strong advantage. The momentum factor heavily favors Houston, though Duke's impressive 15-game streak shows they are also performing at an elite level. Given Houston's slightly superior win streak and higher preseason ranking, I predict with moderate certainty in the outcome. The results are somewhat skewed toward a Houston victory, particularly considering their consistent dominance throughout the season. While both teams are #1 seeds and elite programs, the combination of Houston's longer win streak and higher initial ranking suggests they have demonstrated more consistent excellence. However, given that this is a Final Four matchup between two top seeds, there remains significant uncertainty and potential for either outcome.
+
+--- Expert 2 ---
+
+[Positive]
+
+Q: What is the probability that Duke will win against Houston in the 2025 NCAA Men's Basketball Championship Final Four game?
+
+Pred: (46.41%*, 53.59%)
+
+A: Given the impeccable form of both teams coming into this matchup, with Houston riding a 17-game win streak and Duke following closely with 15 consecutive victories, this projects to be an extremely competitive contest. I expect a slight edge for Houston based on their preseason #1 ranking and longer win streak, suggesting marginally superior overall team quality. The uncertainty in this prediction is relatively low given both teams' consistent high-level performance throughout the season. The outcomes are somewhat skewed toward Houston's favor, but not dramatically so, as Duke's elite level of play means they could certainly emerge victorious. The results are likely to be fairly concentrated around the mean prediction, as both teams have demonstrated remarkable consistency and the stakes of a Final Four game typically bring out peak performance from elite teams.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will lose to Houston (1) in their Final Four matchup?
+
+Pred: (42.65%, 57.35%*)
+
+A: Based on their impressive season-long performance and current hot streak, I expect Houston to have a strong advantage in this matchup. The Cougars' defensive intensity and slightly longer win streak suggests they are peaking at the right moment. My prediction comes with moderate certainty given both teams' consistent performance throughout the season. Results are somewhat skewed toward a Houston victory due to their preseason #1 ranking and maintained excellence. The outcomes are likely to be concentrated around my expectation, with relatively low risk of extreme deviations given both teams' proven ability to perform at an elite level. However, March Madness history shows that even strong favorites can falter, so I've incorporated some tail risk into the distribution.
+
+--- Expert 3 ---
+
+[Positive]
+
+Q: What is the probability that Duke (1) will win the Final Four matchup against Houston (1)?
+
+Pred: (46.74%*, 53.26%)
+
+A: After careful analysis of both teams' performances and contextual factors, I expect a highly competitive game given both teams' impressive win streaks and high preseason rankings. My prediction shows moderate uncertainty due to the high stakes of a Final Four matchup and the relatively equal strength of both teams. Results are slightly skewed toward Houston, given their slightly longer win streak and higher preseason ranking. The outcomes are likely to be concentrated around my central estimate, as both teams have demonstrated consistent high-level performance throughout the season. The competitive nature of March Madness introduces some possibility of extreme outcomes, though both teams' experience and talent level suggests they will perform near their expected levels.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will lose to Houston (1) in their Final Four matchup?
+
+Pred: (42.58%, 57.42%*)
+
+A: Given the impressive credentials of both teams, I expect Houston to have a solid advantage in this matchup. Both teams enter with remarkable win streaks, but Houston's slightly longer streak and preseason #1 ranking suggest marginally stronger form. My prediction carries moderate uncertainty due to the high-stakes nature of Final Four games and the equal seeding of both teams. Results are somewhat skewed toward a Houston victory, considering their slightly superior season-long performance metrics. There is a moderate risk of extreme outcomes given the pressure of the Final Four setting and both teams' ability to perform at an elite level. The neutral court at the Alamodome slightly reduces home court advantages, but Houston's defensive prowess and experienced roster give them an edge in what should be a tightly contested game.
+
+--- Expert 4 ---
+
+[Positive]
+
+Q: What is the probability that Duke (1) will win the Final Four match against Houston (1)?
+
+Pred: (42.39%*, 57.61%)
+
+A: My expectation aligns closer to Houston winning this matchup between two powerhouse teams with impressive win streaks. I predict with moderate certainty given both teams' consistent performance throughout the season and their ability to maintain their preseason rankings. Results are slightly skewed towards Houston given their slightly longer win streak and marginally better season-long performance metrics. While both teams have strong momentum, Houston's defensive efficiency and slightly more dominant run through the tournament suggests they have a meaningful edge. There is a relatively low risk of extreme outcomes given both teams' consistent play styles and experience in high-pressure situations. The tournament setting and neutral court in San Antonio somewhat reduces home court advantages that might otherwise affect the outcome.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will lose to Houston (1) in their Final Four matchup?
+
+Pred: (37.37%, 62.63%*)
+
+A: Based on Houston's outstanding season and momentum, I expect them to be strongly favored in this matchup. Their nation-leading win streak and preseason #1 ranking demonstrate their consistency and overall strength. While Duke has been impressive with their own lengthy win streak, Houston's defensive prowess and experienced roster should give them a significant edge. My prediction reflects high certainty given both teams' consistent performance throughout the season. Results are slightly skewed towards a Houston victory given their marginally superior season-long metrics and momentum. However, given the high stakes of a Final Four game and both teams' elite status, there remains some possibility of an unexpected outcome, though I believe the results will be fairly concentrated around my expectation.
+
+--- Expert 5 ---
+
+[Positive]
+
+Q: What is the probability that Duke (side1) will win the NCAA Final Four matchup against Houston?
+
+Pred: (47.22%*, 52.78%)
+
+A: I expect an evenly matched contest between these two powerhouse programs. Both teams enter with remarkable win streaks, but Houston's slightly longer streak and preseason ranking give them a marginal edge. Results are likely to be lopsided toward Houston given their defensive consistency and marginally stronger resume. While I predict with moderate certainty, there is some risk of extreme outcomes given the high-stakes atmosphere of the Final Four. The results are likely concentrated around a narrow band of scenarios where Houston's defensive prowess meets Duke's offensive firepower, but either team could dominate if they get hot early.
+
+[Negative]
+
+Q: What is the probability that Duke (1) will lose to Houston (1) in their Final Four matchup?
+
+Pred: (40.97%, 59.03%*)
+
+A: I expect Houston's top-ranked defense and superior win streak will be significant factors in this matchup. The results appear to be centered around a notable edge for Houston, given their consistent performance throughout the season and their slightly higher preseason ranking. My prediction comes with moderate certainty due to both teams' impressive win streaks and similar seeding. Results are slightly skewed toward Houston's favor, considering their defensive prowess and longer current win streak. There is a moderate risk of extreme outcomes given the high stakes of a Final Four game and the potential for either team's offensive firepower to take over. The historical consistency of both programs and their sustained excellence throughout this season suggests the outcome, while favoring Houston, could still be competitive.
