@@ -1,0 +1,143 @@
+{
+  "predictions": [
+    {
+      "positive": {
+        "prob_a": 0.4363062029496089,
+        "question": "What is the probability that Nebraska will win the College Basketball Crown Championship Game against UCF?",
+        "notes": "Based on recent performance and quality of competition, my expectation for this game leans towards UCF. While Nebraska has shown the ability to beat ranked teams, their recent form of 4-6 in their last 10 games is concerning. I predict with moderate certainty given both teams' inconsistent performances throughout the season. Results are somewhat skewed toward UCF due to their impressive showing against elite Big 12 competition, particularly their close games with Houston and Kansas. The neutral court in Las Vegas somewhat normalizes the outcome distribution, though there is a moderate risk of extreme outcomes given both teams' volatile scoring patterns. UCF's higher scoring offense (80.1 points per game) against Nebraska's defense (72.8 points allowed) suggests an advantage, while both teams' shooting percentages are comparable. UCF's strong offensive rebounding could be a key differentiator in what projects to be a competitive game.",
+        "negative": false,
+        "beta_params": {
+          "alpha": 20.249593394948512,
+          "beta": 26.161833392140363
+        }
+      },
+      "negative": {
+        "prob_a": 0.41992838991366416,
+        "question": "What is the probability that Nebraska will lose to UCF in the College Basketball Crown Championship Game?",
+        "notes": "Given the available data, I predict the outcome centers around a UCF victory with moderate confidence. Recent performance indicators point strongly toward UCF's advantage, with their stronger showing in the highly competitive Big 12 conference being particularly telling. Results are likely skewed toward a UCF win, considering their impressive close games against top-tier opponents like Houston and Kansas. The Knights' superior offensive output (80.1 points per game) compared to Nebraska's defensive allowance (72.8) suggests a meaningful advantage. I have relatively high certainty in this prediction given UCF's better recent form (7-3 in last 10) compared to Nebraska's struggling stretch (4-6). Their competitive showing against elite competition, particularly the narrow loss to championship finalist Houston, demonstrates their capability at a high level. The threat of extreme outcomes is moderate, as both teams have shown the ability to compete with ranked opponents.",
+        "negative": true,
+        "beta_params": {
+          "alpha": 17.13560165578387,
+          "beta": 23.670407338527973
+        }
+      },
+      "beta_params": {
+        "alpha": 18.458478368799188,
+        "beta": 24.698962758253494
+      }
+    },
+    {
+      "positive": {
+        "prob_a": 0.4038544213802212,
+        "question": "What is the probability that Nebraska will win the game against UCF in the College Basketball Crown Championship Game?",
+        "notes": "Given the recent performance metrics and competitive context, I expect a closely contested game. UCF has shown stronger recent form, winning 7 of their last 10 games while playing in the tougher Big 12 conference, and notably pushing powerhouses like Kansas and Houston to the limit. While Nebraska has notable wins against ranked teams earlier in the season, their recent form is concerning with just 4 wins in their last 10 games. The scoring dynamics suggest an advantage for UCF, who average 80.1 points per game compared to Nebraska's defensive allowance of 72.8. I predict with moderate certainty due to both teams' inconsistent performances against quality opponents. Results are slightly skewed toward UCF given their stronger conference schedule and better recent form. The outcomes are likely to be somewhat concentrated around my expectation, though there's a meaningful chance of surprise given the tournament setting and both teams' demonstrated ability to compete with highly ranked opponents.",
+        "negative": false,
+        "beta_params": {
+          "alpha": 16.17901908796789,
+          "beta": 23.882493752907152
+        }
+      },
+      "negative": {
+        "prob_a": 0.38622641159818333,
+        "question": "What is the probability that Nebraska will lose to UCF in this College Basketball Crown Championship Game?",
+        "notes": "Based on the recent performance trends and matchup dynamics, I expect UCF to have a strong advantage in this championship game. My analysis of their competitive showings against top-tier Big 12 teams, particularly their close games with Houston and Kansas, suggests they're performing at a higher level than their record indicates. The Knights' superior offensive output and momentum from their 7-3 record in the last 10 games gives me high confidence in their chances. While Nebraska has some impressive wins against ranked teams, their recent 4-6 record and defensive struggles are concerning. The results are somewhat skewed towards a UCF victory, particularly given their offensive rebounding advantage and scoring prowess. Their ability to put up 83.1 points in their last 10 games against tough Big 12 competition suggests they match up well against Nebraska's defense that allows 72.8 points per game. There's moderate uncertainty in the prediction due to the tournament's inaugural nature and neutral site location, but the data points strongly toward UCF's advantages.",
+        "negative": true,
+        "beta_params": {
+          "alpha": 24.93951852648579,
+          "beta": 39.632757676188845
+        }
+      },
+      "beta_params": {
+        "alpha": 19.8005901007524,
+        "beta": 30.42814185065773
+      }
+    },
+    {
+      "positive": {
+        "prob_a": 0.4146169419537189,
+        "question": "What is the probability that Nebraska will win against UCF in the College Basketball Crown Championship Game?",
+        "notes": "Based on recent performance metrics and historical context, I expect a closely contested match with a slight edge to UCF. The Knights' stronger recent form, going 7-3 in their last 10 games compared to Nebraska's 4-6, suggests better momentum. While Nebraska has more impressive wins against ranked teams this season, UCF has shown remarkable competitiveness against elite competition, particularly in their close games against Houston and Kansas. The scoring dynamics indicate higher uncertainty, as UCF's offensive output (80.1 points per game) significantly exceeds Nebraska's defensive average (72.8 points allowed). Results are somewhat skewed toward UCF due to their superior offensive efficiency and recent performance trajectory. I predict with moderate certainty given the teams' contrasting strengths and the neutral venue. There is a notable risk of extreme outcomes given both teams' demonstrated ability to compete with highly ranked opponents.",
+        "negative": false,
+        "beta_params": {
+          "alpha": 13.792179588939195,
+          "beta": 19.472692618040544
+        }
+      },
+      "negative": {
+        "prob_a": 0.41971314087381506,
+        "question": "What is the probability that Nebraska will LOSE to UCF in this College Basketball Crown Championship Game?",
+        "notes": "Based on comprehensive analysis of both teams' performances, I expect a moderately high chance of a Nebraska loss to UCF. The Knights' strong showing against elite competition like Houston and Kansas, despite narrow losses, demonstrates their capability at a high level. My certainty in this prediction is reinforced by UCF's superior offensive output, averaging 80.1 points per game, and their recent momentum winning 7 of their last 10 games. The results are somewhat skewed toward a Nebraska loss given UCF's better conference strength of schedule in the Big 12 compared to Nebraska's Big Ten performance. The outcomes are likely to be fairly concentrated around my expectation, though there's some risk of extreme outcomes given both teams' volatile performances against ranked opponents. UCF's competitive games against top-tier opponents, particularly their narrow loss to championship finalist Houston, suggests they match up well against high-caliber competition.",
+        "negative": true,
+        "beta_params": {
+          "alpha": 16.55829192823716,
+          "beta": 22.89315792097149
+        }
+      },
+      "beta_params": {
+        "alpha": 14.9522166699209,
+        "beta": 20.898616671054548
+      }
+    },
+    {
+      "positive": {
+        "prob_a": 0.4363139076566135,
+        "question": "What is the probability that Nebraska will win against UCF in the College Basketball Crown Championship Game?",
+        "notes": "Given the recent performance metrics and season context, I expect this to be a closely contested game with UCF having a slight edge. My analysis indicates moderate uncertainty in the outcome given both teams' inconsistent performances against quality opponents. UCF's strong showing against elite teams like Houston and Kansas, despite losses, demonstrates their ability to compete at a high level. The results are slightly skewed towards UCF given their superior offensive output (80.1 points per game) compared to Nebraska's defensive allowance (72.8 points). Their recent form (7-3 in last 10) compared to Nebraska's (4-6) also suggests better momentum. However, Nebraska's victories over ranked opponents throughout the season indicates they can elevate their game in important matchups. The distribution reflects some possibility of extreme outcomes, particularly if either team's three-point shooting becomes a significant factor.",
+        "negative": false,
+        "beta_params": {
+          "alpha": 20.262024869014844,
+          "beta": 26.177074397473373
+        }
+      },
+      "negative": {
+        "prob_a": 0.4307963432405755,
+        "question": "What is the probability that Nebraska will lose to UCF in the College Basketball Crown Championship Game?",
+        "notes": "Based on the comprehensive analysis of both teams' performances, I expect UCF to have a significant edge in this matchup. Looking at recent form, UCF has shown more consistency with a 7-3 record in their last 10 games compared to Nebraska's 4-6 stretch. The results are particularly skewed toward UCF given their impressive showing against top-tier Big 12 competition, including close games with Houston and Kansas. My confidence level is moderately high due to UCF's superior offensive output, averaging 80.1 points per game, and their proven ability to compete with elite teams. While there's some uncertainty due to Nebraska's victories over ranked opponents earlier in the season, their recent defensive struggles suggest vulnerability. The outcomes are concentrated around my mean prediction, with relatively thin tails given both teams' established performance patterns throughout the season. UCF's stronger conference schedule and better recent form shape my confidence in this assessment.",
+        "negative": true,
+        "beta_params": {
+          "alpha": 23.062893441297412,
+          "beta": 30.47259682728662
+        }
+      },
+      "beta_params": {
+        "alpha": 21.594825413588143,
+        "beta": 28.222713734703575
+      }
+    },
+    {
+      "positive": {
+        "prob_a": 0.43629348070789764,
+        "question": "What is the probability that Nebraska will win the College Basketball Crown Championship Game against UCF?",
+        "notes": "Based on the comprehensive analysis of both teams' performances, I expect this to be a closely contested game with UCF having a slight edge. The Knights' strong performance against elite competition like Houston and Kansas, despite losses, demonstrates their ability to compete at a high level. Their scoring average of 83.1 points over the last 10 games suggests strong offensive momentum. Nebraska, while having impressive wins over ranked teams earlier in the season, has struggled recently with a 4-6 record in their last 10 games. Results are slightly skewed toward UCF given their recent form and competitive showing in the stronger Big 12 conference. However, I predict with moderate certainty given the relatively even matchup and Nebraska's proven ability to upset stronger teams. The outcome distribution is fairly concentrated around my expectation, reflecting the balanced nature of this matchup, though there's room for surprise given both teams' inconsistent seasons.",
+        "negative": false,
+        "beta_params": {
+          "alpha": 20.271528339044565,
+          "beta": 26.191527460353303
+        }
+      },
+      "negative": {
+        "prob_a": 0.4198185372249374,
+        "question": "What is the probability that Nebraska will lose to UCF in the College Basketball Crown Championship Game?",
+        "notes": "Based on recent performance trends and strength of schedule, I expect UCF has a significant edge in this matchup. My analysis suggests outcomes are centered higher due to UCF's impressive showing against elite Big 12 competition, particularly their close games with Houston and Kansas. Their offensive output and rebounding metrics indicate strong fundamentals that should translate well in this matchup. I predict with moderate certainty given the volatility inherent in single-elimination tournament games. Results are somewhat skewed toward a UCF victory considering their superior recent form (7-3 in last 10) compared to Nebraska's struggles (4-6 in last 10). The risk of extreme outcomes is relatively low given both teams' consistent scoring patterns, though UCF's higher scoring variance could lead to some tail risk scenarios. Their experience against top-tier competition, particularly in close games against championship-caliber teams, provides a meaningful advantage.",
+        "negative": true,
+        "beta_params": {
+          "alpha": 16.992944632152216,
+          "beta": 23.48393555631705
+        }
+      },
+      "beta_params": {
+        "alpha": 18.379632115010022,
+        "beta": 24.601213028513754
+      }
+    }
+  ],
+  "beta_params": {
+    "alpha": 18.307954468051435,
+    "beta": 25.397068917134842
+  },
+  "prob_a": 0.4188981734822015,
+  "prob": [
+    0.4188981734822015,
+    0.5811018265177985
+  ]
+}

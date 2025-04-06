@@ -1011,7 +1011,7 @@ The games listed here explore the bracket hypothetical case that each of the pic
 <table style="font-size:0.8rem">
   <thead>
     <tr>
-      <th>Region</th>
+      <th>Location</th>
       <th>Team 1 (Seed)</th>
       <th>Team 2 (Seed)</th>
       <th>Team 1 Win %</th>
@@ -1051,6 +1051,40 @@ The games listed here explore the bracket hypothetical case that each of the pic
       <td>42.28%</td>
       <td>57.72%</td>
       <td><a href="mens-bracket/picks/duke-vs-houston.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### Crown Championship (Updated with data on games through April 5)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Team 1 (Rank)</th>
+      <th>Team 2 (Rank)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Las Vegas, NV</td>
+      <td>Nebraska (47)</td>
+      <td>UCF (65)</td>
+      <td>41.89%</td>
+      <td>58.11%</td>
+      <td><a href="crown-bracket/finals/nebraska-vs-ucf/4fbabc7b-799e-4267-8321-b06572fdc80f-package/4fbabc7b-799e-4267-8321-b06572fdc80f-output_text.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>Las Vegas, NV</td>
+      <td>UCF (65)</td>
+      <td>Nebraska (47)</td>
+      <td>58.53%</td>
+      <td>41.47%</td>
+      <td><a href="crown-bracket/finals/nebraska-vs-ucf/8a754799-ee2c-48ad-aed4-e1cb00af077f-package/8a754799-ee2c-48ad-aed4-e1cb00af077f-output_text.txt">txt</a></td>
     </tr>
   </tbody>
 </table>
