@@ -1055,6 +1055,40 @@ The games listed here explore the bracket hypothetical case that each of the pic
   </tbody>
 </table>
 
+
+### Finals - Championship Game (Updated with data on games through April 6)
+
+<table style="font-size:0.8rem">
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Team 1 (Seed)</th>
+      <th>Team 2 (Seed)</th>
+      <th>Team 1 Win %</th>
+      <th>Team 2 Win %</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Florida (1)</td>
+      <td>Houston (1)</td>
+      <td>45.69%</td>
+      <td>54.31%</td>
+      <td><a href="mens-bracket/picks/florida-vs-houston.txt">txt</a></td>
+    </tr>
+    <tr>
+      <td>San Antonio, TX</td>
+      <td>Houston (1)</td>
+      <td>Florida (1)</td>
+      <td>48.27%</td>
+      <td>51.73%</td>
+      <td><a href="mens-bracket/picks/houston-vs-florida.txt">txt</a></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Venue Information
 
 | Round | City | Venue | Dates | Host |
